@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Alex 👋
 
-<!--
-**alexjlindahl/alexjlindahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Early GTM Engineer and Creator in Residence at [Clay](https://clay.com).
+I build go-to-market systems with AI and write about how they work.
 
-Here are some ideas to get you started:
+### 📬 The GTM Engineering Newsletter
+Deep dives on GTM engineering, AI agents, and the plays that actually work.
+**[Subscribe at gtmengineering.link](https://gtmengineering.link)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 What's in here
+- **gtm-playbooks**: Clay plays, prompts, and templates you can copy
+- **Projects**: landing pages and small tools I've shipped, like [gtme-ai-landing-page](https://gtme-ai-landing-page.vercel.app)
+
+### 🔗 Find me
+[X @gtm_engineer](https://x.com/gtm_engineer) · [LinkedIn](https://www.linkedin.com/in/alexlindahl) · [Newsletter](https://newsletter.gtmengineering.ai)
