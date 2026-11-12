@@ -1,0 +1,1396 @@
+[
+  {
+    "id": "highspot",
+    "name": "Highspot",
+    "aliases": [
+      "highspot",
+      "high spot",
+      "hihgspot"
+    ],
+    "category": "enablement",
+    "jobs": [
+      "sales-enablement",
+      "sales-coaching"
+    ],
+    "bestAt": "Enterprise content management and guided selling with strong search and analytics",
+    "website": "https://www.highspot.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public",
+      "sourceUrl": "https://www.highspot.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "seismic",
+    "name": "Seismic",
+    "aliases": [
+      "seismic",
+      "seismic enablement",
+      "seismic software",
+      "lessonly"
+    ],
+    "category": "enablement",
+    "jobs": [
+      "sales-enablement",
+      "sales-coaching"
+    ],
+    "bestAt": "Enterprise enablement with automated content personalization for regulated industries",
+    "website": "https://seismic.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; no pricing page, demo request only",
+      "sourceUrl": "https://seismic.com/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "showpad",
+    "name": "Showpad",
+    "aliases": [
+      "showpad",
+      "show pad"
+    ],
+    "category": "enablement",
+    "jobs": [
+      "sales-enablement",
+      "sales-coaching"
+    ],
+    "bestAt": "Enablement for field and manufacturing sellers with offline content and 3D showrooms",
+    "website": "https://www.showpad.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public",
+      "sourceUrl": "https://www.showpad.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "mindtickle",
+    "name": "Mindtickle",
+    "aliases": [
+      "mindtickle",
+      "mind tickle",
+      "mindtickel"
+    ],
+    "category": "enablement",
+    "jobs": [
+      "sales-coaching",
+      "sales-enablement",
+      "conversation-intelligence"
+    ],
+    "bestAt": "Sales readiness: onboarding, certifications and AI role-play tied to rep scorecards",
+    "website": "https://www.mindtickle.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public",
+      "sourceUrl": "https://www.mindtickle.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "guru",
+    "name": "Guru",
+    "aliases": [
+      "guru",
+      "getguru",
+      "get guru",
+      "guru knowledge base"
+    ],
+    "category": "enablement",
+    "jobs": [
+      "sales-enablement"
+    ],
+    "bestAt": "AI knowledge base that surfaces verified answers inside Slack, browser and CRM",
+    "website": "https://www.getguru.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; custom packages via sales (self-serve per-user plans no longer listed)",
+      "sourceUrl": "https://www.getguru.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "second-nature",
+    "name": "Second Nature",
+    "aliases": [
+      "second nature",
+      "secondnature",
+      "second nature ai",
+      "secondnature.ai"
+    ],
+    "category": "enablement",
+    "jobs": [
+      "sales-coaching"
+    ],
+    "bestAt": "AI role-play avatars for scalable sales pitch practice and certification",
+    "website": "https://secondnature.ai",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; no pricing page, demo request only",
+      "sourceUrl": "https://secondnature.ai/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "hyperbound",
+    "name": "Hyperbound",
+    "aliases": [
+      "hyperbound",
+      "hyper bound",
+      "hyperbound ai"
+    ],
+    "category": "enablement",
+    "jobs": [
+      "sales-coaching",
+      "conversation-intelligence"
+    ],
+    "bestAt": "Realistic AI buyer role-plays for cold call practice, built from your own calls",
+    "website": "https://www.hyperbound.ai",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": true,
+      "note": "pricing not public; free plan with prebuilt roleplays, paid Practice/Perform plans per user via sales",
+      "sourceUrl": "https://www.hyperbound.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "dock",
+    "name": "Dock",
+    "aliases": [
+      "dock",
+      "dock.us",
+      "dock us",
+      "dock sales rooms"
+    ],
+    "category": "enablement",
+    "jobs": [
+      "digital-sales-room",
+      "sales-enablement",
+      "proposals"
+    ],
+    "bestAt": "Sales rooms plus mutual action plans and onboarding portals in one workspace",
+    "website": "https://www.dock.us",
+    "pricing": {
+      "status": "public",
+      "amount": 350,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Standard",
+      "billing": null,
+      "hasFreeTier": true,
+      "note": "Standard $350 per month (billing term not stated on page); additional seats $50/mo; Premium $1,000 billed annually",
+      "sourceUrl": "https://www.dock.us/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "aligned",
+    "name": "Aligned",
+    "aliases": [
+      "aligned",
+      "alignedup",
+      "aligned up",
+      "aligned sales rooms"
+    ],
+    "category": "enablement",
+    "jobs": [
+      "digital-sales-room"
+    ],
+    "bestAt": "Buyer collaboration rooms with mutual action plans and stakeholder engagement signals",
+    "website": "https://www.alignedup.com",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not verified",
+      "sourceUrl": "https://www.alignedup.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "trumpet",
+    "name": "Trumpet",
+    "aliases": [
+      "trumpet",
+      "sendtrumpet",
+      "send trumpet",
+      "trumpet pods"
+    ],
+    "category": "enablement",
+    "jobs": [
+      "digital-sales-room",
+      "proposals"
+    ],
+    "bestAt": "Quick-to-build personalized sales rooms (Pods) with a generous free plan",
+    "website": "https://www.sendtrumpet.com",
+    "pricing": {
+      "status": "public",
+      "amount": 37.5,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Pro",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Pro $450 per user per year (divided by 12); $45 per user billed monthly",
+      "sourceUrl": "https://www.sendtrumpet.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "navattic",
+    "name": "Navattic",
+    "aliases": [
+      "navattic",
+      "navatic",
+      "navattic demos"
+    ],
+    "category": "enablement",
+    "jobs": [
+      "interactive-demo"
+    ],
+    "bestAt": "No-code HTML-capture interactive product demos for marketing websites",
+    "website": "https://www.navattic.com",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": true,
+      "note": "pricing not verified; Base/Growth prices are rendered client-side and could not be read; free Starter plan exists",
+      "sourceUrl": "https://www.navattic.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "storylane",
+    "name": "Storylane",
+    "aliases": [
+      "storylane",
+      "story lane",
+      "storylane demos"
+    ],
+    "category": "enablement",
+    "jobs": [
+      "interactive-demo"
+    ],
+    "bestAt": "Fast, affordable interactive demos with AI voiceovers and HTML or screenshot capture",
+    "website": "https://www.storylane.io",
+    "pricing": {
+      "status": "public",
+      "amount": 40,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Starter $40/month on yearly billing (20% off), $50 billed monthly; includes 1 seat, $40 per additional seat",
+      "sourceUrl": "https://www.storylane.io/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "arcade",
+    "name": "Arcade",
+    "aliases": [
+      "arcade",
+      "arcade software",
+      "arcade demos",
+      "arcade.software"
+    ],
+    "category": "enablement",
+    "jobs": [
+      "interactive-demo"
+    ],
+    "bestAt": "Easiest click-through demo recorder for embeds, social and product marketing",
+    "website": "https://www.arcade.software",
+    "pricing": {
+      "status": "public",
+      "amount": 49,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Pro",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Pro $49/month billed annually; lowest credit tier (1,000 credits), higher credit tiers cost more",
+      "sourceUrl": "https://www.arcade.software/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "consensus",
+    "name": "Consensus",
+    "aliases": [
+      "consensus",
+      "goconsensus",
+      "go consensus",
+      "consensus demo automation"
+    ],
+    "category": "enablement",
+    "jobs": [
+      "interactive-demo",
+      "sales-enablement"
+    ],
+    "bestAt": "Demo automation for presales: personalized video demos that map the buying group",
+    "website": "https://goconsensus.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public",
+      "sourceUrl": "https://goconsensus.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "pandadoc",
+    "name": "PandaDoc",
+    "aliases": [
+      "pandadoc",
+      "panda doc",
+      "pandadocs",
+      "panda docs"
+    ],
+    "category": "deal-desk",
+    "jobs": [
+      "proposals",
+      "e-signature",
+      "cpq"
+    ],
+    "bestAt": "All-in-one proposals, quotes and e-signature for SMB and mid-market sales teams",
+    "website": "https://www.pandadoc.com",
+    "pricing": {
+      "status": "public",
+      "amount": 19,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Starter $19 per seat/month billed annually",
+      "sourceUrl": "https://www.pandadoc.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "docusign",
+    "name": "DocuSign",
+    "aliases": [
+      "docusign",
+      "docu sign",
+      "docusign esignature",
+      "docusign iam",
+      "docusing"
+    ],
+    "category": "deal-desk",
+    "jobs": [
+      "e-signature"
+    ],
+    "bestAt": "The e-signature standard that legal and enterprise buyers already trust",
+    "website": "https://www.docusign.com",
+    "pricing": {
+      "status": "public",
+      "amount": 11,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Personal",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Personal (single user) $11/month on annual plan; Standard $30/user/month, Business Pro $45/user/month",
+      "sourceUrl": "https://ecom.docusign.com/plans-and-pricing/esignature",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "proposify",
+    "name": "Proposify",
+    "aliases": [
+      "proposify",
+      "proposify proposals",
+      "propsify"
+    ],
+    "category": "deal-desk",
+    "jobs": [
+      "proposals",
+      "e-signature"
+    ],
+    "bestAt": "Design-controlled proposal templates with approvals and close-rate analytics",
+    "website": "https://www.proposify.com",
+    "pricing": {
+      "status": "public",
+      "amount": 39,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Build",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Build $39/user/month billed annually; $49/user billed monthly",
+      "sourceUrl": "https://www.proposify.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "qwilr",
+    "name": "Qwilr",
+    "aliases": [
+      "qwilr",
+      "quilr",
+      "qwiler",
+      "qwilr proposals"
+    ],
+    "category": "deal-desk",
+    "jobs": [
+      "proposals",
+      "e-signature"
+    ],
+    "bestAt": "Proposals as interactive web pages with embedded pricing, video and buyer analytics",
+    "website": "https://qwilr.com",
+    "pricing": {
+      "status": "public",
+      "amount": 35,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Starter $35 per user/month billed annually; $49 billed monthly",
+      "sourceUrl": "https://qwilr.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "dropbox-sign",
+    "name": "Dropbox Sign",
+    "aliases": [
+      "dropbox sign",
+      "hellosign",
+      "hello sign",
+      "dropboxsign"
+    ],
+    "category": "deal-desk",
+    "jobs": [
+      "e-signature"
+    ],
+    "bestAt": "Simple, cheap e-signature with a clean API (formerly HelloSign)",
+    "website": "https://sign.dropbox.com",
+    "pricing": {
+      "status": "public",
+      "amount": 10.05,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Essentials",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Essentials (individual) $10.05/month billed yearly ($120.60/yr), $15 billed monthly; Standard $17.50/user/month billed yearly. Formerly HelloSign",
+      "sourceUrl": "https://sign.dropbox.com/info/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "dealhub",
+    "name": "DealHub",
+    "aliases": [
+      "dealhub",
+      "deal hub",
+      "dealhub cpq",
+      "dealhub.io"
+    ],
+    "category": "deal-desk",
+    "jobs": [
+      "cpq",
+      "proposals",
+      "digital-sales-room",
+      "e-signature"
+    ],
+    "bestAt": "Faster-to-deploy CPQ with deal rooms, works across Salesforce, HubSpot and Dynamics",
+    "website": "https://dealhub.io",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public",
+      "sourceUrl": "https://dealhub.io/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "salesforce-cpq",
+    "name": "Salesforce Revenue Cloud (CPQ)",
+    "aliases": [
+      "salesforce cpq",
+      "sfdc cpq",
+      "steelbrick",
+      "steel brick",
+      "revenue cloud",
+      "salesforce revenue cloud",
+      "salesforce revenue cloud advanced",
+      "rca",
+      "agentforce revenue management"
+    ],
+    "category": "deal-desk",
+    "jobs": [
+      "cpq"
+    ],
+    "bestAt": "Native Salesforce quoting for complex products, pricing rules and approvals",
+    "website": "https://www.salesforce.com/sales/revenue-lifecycle-management/",
+    "pricing": {
+      "status": "public",
+      "amount": 150,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Revenue Cloud Growth",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Revenue Cloud Growth $150/user/month billed annually; Advanced $200. Legacy Salesforce CPQ (ex-SteelBrick) is now sold as Revenue Cloud",
+      "sourceUrl": "https://www.salesforce.com/sales/cpq/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "gainsight",
+    "name": "Gainsight",
+    "aliases": [
+      "gainsight",
+      "gain sight",
+      "gainsight cs",
+      "gainsight px"
+    ],
+    "category": "customer-success",
+    "jobs": [
+      "customer-success",
+      "product-analytics"
+    ],
+    "bestAt": "Enterprise customer success platform with deep health scoring and CS ops tooling",
+    "website": "https://www.gainsight.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public",
+      "sourceUrl": "https://www.gainsight.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "churnzero",
+    "name": "ChurnZero",
+    "aliases": [
+      "churnzero",
+      "churn zero",
+      "churnzer0"
+    ],
+    "category": "customer-success",
+    "jobs": [
+      "customer-success"
+    ],
+    "bestAt": "Mid-market CS platform with real-time usage alerts and in-app customer messaging",
+    "website": "https://churnzero.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; no pricing page, demo request only",
+      "sourceUrl": "https://churnzero.com/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "vitally",
+    "name": "Vitally",
+    "aliases": [
+      "vitally",
+      "vitally.io",
+      "vitaly"
+    ],
+    "category": "customer-success",
+    "jobs": [
+      "customer-success"
+    ],
+    "bestAt": "Modern CS platform for B2B SaaS with collaborative docs and fast setup",
+    "website": "https://www.vitally.io",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public",
+      "sourceUrl": "https://www.vitally.io/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "totango",
+    "name": "Totango (now Odie)",
+    "aliases": [
+      "totango",
+      "totango catalyst",
+      "catalyst",
+      "catalyst software",
+      "totango + catalyst",
+      "odie",
+      "heyodie",
+      "totongo"
+    ],
+    "category": "customer-success",
+    "jobs": [
+      "customer-success"
+    ],
+    "bestAt": "Modular customer success journeys (SuccessBLOCs); merged with Catalyst, rebranded Odie",
+    "website": "https://www.totango.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; Totango (merged with Catalyst in 2024) now presents itself as Odie (heyodie.ai), which states usage-based pricing with no seat pricing but shows no amounts",
+      "sourceUrl": "https://heyodie.ai/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "planhat",
+    "name": "Planhat",
+    "aliases": [
+      "planhat",
+      "plan hat",
+      "planhat cs"
+    ],
+    "category": "customer-success",
+    "jobs": [
+      "customer-success"
+    ],
+    "bestAt": "Flexible customer platform with strong data model and customer-facing portals",
+    "website": "https://www.planhat.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; platform fee plus core users, billed annually, amounts on enquiry",
+      "sourceUrl": "https://www.planhat.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "captivateiq",
+    "name": "CaptivateIQ",
+    "aliases": [
+      "captivateiq",
+      "captivate iq",
+      "captivate",
+      "captivateiq incentives"
+    ],
+    "category": "revops",
+    "jobs": [
+      "commissions"
+    ],
+    "bestAt": "Spreadsheet-like commission engine that handles complex enterprise comp plans",
+    "website": "https://www.captivateiq.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; per-seat pricing plus one-time setup fee via custom quote",
+      "sourceUrl": "https://www.captivateiq.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "quotapath",
+    "name": "QuotaPath",
+    "aliases": [
+      "quotapath",
+      "quota path",
+      "quotapth"
+    ],
+    "category": "revops",
+    "jobs": [
+      "commissions"
+    ],
+    "bestAt": "Transparent-priced commission tracking that is quick to set up for SMB and mid-market",
+    "website": "https://www.quotapath.com",
+    "pricing": {
+      "status": "public",
+      "amount": 525,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Growth",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Growth: $525/month platform fee covering first 5 users, then $35 per user/month; billed annually",
+      "sourceUrl": "https://www.quotapath.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "spiff",
+    "name": "Salesforce Spiff",
+    "aliases": [
+      "spiff",
+      "salesforce spiff",
+      "spiff.com",
+      "spiff commissions",
+      "sales cloud spiff"
+    ],
+    "category": "revops",
+    "jobs": [
+      "commissions"
+    ],
+    "bestAt": "Commission automation native to Salesforce with real-time rep earnings visibility",
+    "website": "https://www.salesforce.com/sales/incentive-compensation-management/",
+    "pricing": {
+      "status": "public",
+      "amount": 75,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Salesforce Spiff",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "$75/user/month billed annually; extra connectors $250/month each. Spiff was acquired by Salesforce",
+      "sourceUrl": "https://www.salesforce.com/sales/incentive-compensation-management/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "scratchpad",
+    "name": "Scratchpad",
+    "aliases": [
+      "scratchpad",
+      "scratch pad",
+      "scratchpad for salesforce"
+    ],
+    "category": "revops",
+    "jobs": [
+      "deal-management",
+      "meeting-notes",
+      "forecasting"
+    ],
+    "bestAt": "Fastest way for reps to update Salesforce pipeline, notes and next steps",
+    "website": "https://www.scratchpad.com",
+    "pricing": {
+      "status": "public",
+      "amount": 16,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": null,
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Single plan: $16/user/month billed annually, $20 billed monthly; 30-day free trial, no free plan",
+      "sourceUrl": "https://www.scratchpad.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "dooly",
+    "name": "Dooly",
+    "aliases": [
+      "dooly",
+      "dooly.ai",
+      "dooley",
+      "dooly notes"
+    ],
+    "category": "revops",
+    "jobs": [
+      "meeting-notes",
+      "deal-management"
+    ],
+    "bestAt": "Sales notes that sync to Salesforce in one click (product shut down June 2025)",
+    "website": "https://www.dooly.ai",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; discontinued: site states the Dooly platform shut down on June 30, 2025 and points to Mediafly",
+      "sourceUrl": "https://www.dooly.ai/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "rattle",
+    "name": "Rattle",
+    "aliases": [
+      "rattle",
+      "gorattle",
+      "go rattle",
+      "rattle slack salesforce"
+    ],
+    "category": "revops",
+    "jobs": [
+      "workflow-automation",
+      "deal-management"
+    ],
+    "bestAt": "Salesforce-to-Slack alerts and one-click CRM updates for process compliance",
+    "website": "https://www.gorattle.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; pricing page shows no plans, demo request only",
+      "sourceUrl": "https://www.gorattle.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "weflow",
+    "name": "Weflow",
+    "aliases": [
+      "weflow",
+      "we flow",
+      "getweflow",
+      "weflow.ai"
+    ],
+    "category": "revops",
+    "jobs": [
+      "deal-management",
+      "forecasting",
+      "conversation-intelligence"
+    ],
+    "bestAt": "Lightweight Salesforce-native activity capture, pipeline views and forecasting",
+    "website": "https://www.weflow.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 19,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Activity & Contact Capture",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Activity & Contact Capture $19/user/month billed annually, 10-user minimum; bundles from $49/user/month. Site moved from getweflow.com to weflow.ai",
+      "sourceUrl": "https://www.weflow.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "ebsta",
+    "name": "Ebsta",
+    "aliases": [
+      "ebsta",
+      "ebsta revenue intelligence",
+      "ebtsa"
+    ],
+    "category": "revops",
+    "jobs": [
+      "forecasting",
+      "deal-management",
+      "conversation-intelligence"
+    ],
+    "bestAt": "Relationship-scoring revenue intelligence and email/calendar sync for Salesforce",
+    "website": "https://www.ebsta.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public",
+      "sourceUrl": "https://www.ebsta.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "crossbeam",
+    "name": "Crossbeam",
+    "aliases": [
+      "crossbeam",
+      "cross beam",
+      "reveal",
+      "reveal.co",
+      "crossbeam reveal",
+      "crossbeam + reveal"
+    ],
+    "category": "revops",
+    "jobs": [
+      "partner-ecosystem",
+      "signal-tracking"
+    ],
+    "bestAt": "Largest partner account-mapping network for finding co-sell overlaps (merged w/ Reveal)",
+    "website": "https://www.crossbeam.com",
+    "pricing": {
+      "status": "public",
+      "amount": 400,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Connector",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Connector $4,800/year platform fee (divided by 12); extra seats $1,800/user/year; paying monthly adds 10%. Crossbeam and Reveal merged in 2024",
+      "sourceUrl": "https://www.crossbeam.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "partnerstack",
+    "name": "PartnerStack",
+    "aliases": [
+      "partnerstack",
+      "partner stack",
+      "partnerstak"
+    ],
+    "category": "revops",
+    "jobs": [
+      "partner-ecosystem"
+    ],
+    "bestAt": "Affiliate, referral and reseller program management with a B2B SaaS partner marketplace",
+    "website": "https://partnerstack.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public",
+      "sourceUrl": "https://partnerstack.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "vidyard",
+    "name": "Vidyard",
+    "aliases": [
+      "vidyard",
+      "vid yard",
+      "vidyard video",
+      "govideo"
+    ],
+    "category": "engagement",
+    "jobs": [
+      "video-messaging"
+    ],
+    "bestAt": "Sales video messaging with viewer analytics, AI avatars and CRM integrations",
+    "website": "https://www.vidyard.com",
+    "pricing": {
+      "status": "public",
+      "amount": 59,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Starter $59/seat/month billed annually, $89 billed monthly; read from Vidyard's machine-readable pricing file (snapshot of /pricing/)",
+      "sourceUrl": "https://www.vidyard.com/pricing.md",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "loom",
+    "name": "Loom",
+    "aliases": [
+      "loom",
+      "loom video",
+      "atlassian loom",
+      "useloom",
+      "loom.com"
+    ],
+    "category": "engagement",
+    "jobs": [
+      "video-messaging"
+    ],
+    "bestAt": "Dead-simple async screen recording for internal updates and prospect walkthroughs",
+    "website": "https://www.loom.com",
+    "pricing": {
+      "status": "public",
+      "amount": 15,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Business",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Business $180 per user per year (divided by 12, from page data); $18/user/month billed monthly. Loom is owned by Atlassian",
+      "sourceUrl": "https://www.loom.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "sendspark",
+    "name": "Sendspark",
+    "aliases": [
+      "sendspark",
+      "send spark",
+      "sendspark video"
+    ],
+    "category": "engagement",
+    "jobs": [
+      "video-messaging",
+      "cold-email"
+    ],
+    "bestAt": "AI-personalized video at scale for cold outbound (dynamic names and backgrounds)",
+    "website": "https://www.sendspark.com",
+    "pricing": {
+      "status": "public",
+      "amount": 39,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Solo",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Solo $468 billed annually (divided by 12), $49 billed monthly; 1 seat included; 7-day trial, no free plan",
+      "sourceUrl": "https://www.sendspark.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "sendoso",
+    "name": "Sendoso",
+    "aliases": [
+      "sendoso",
+      "sendosso",
+      "sendoso gifting"
+    ],
+    "category": "engagement",
+    "jobs": [
+      "gifting"
+    ],
+    "bestAt": "Largest corporate gifting and direct mail marketplace with deep CRM integrations",
+    "website": "https://www.sendoso.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public",
+      "sourceUrl": "https://www.sendoso.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "reachdesk",
+    "name": "Reachdesk",
+    "aliases": [
+      "reachdesk",
+      "reach desk",
+      "reachdesk gifting"
+    ],
+    "category": "engagement",
+    "jobs": [
+      "gifting"
+    ],
+    "bestAt": "Global gifting and swag with strong EMEA/APAC warehousing and delivery",
+    "website": "https://reachdesk.com",
+    "pricing": {
+      "status": "public",
+      "amount": 1666.67,
+      "currency": "USD",
+      "unit": "month",
+      "plan": null,
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Page states plans start at $20,000/year (divided by 12); individual plan prices (Core/Plus/Premium) are by quote",
+      "sourceUrl": "https://reachdesk.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "goldcast",
+    "name": "Goldcast",
+    "aliases": [
+      "goldcast",
+      "gold cast",
+      "goldcast events",
+      "goldcast content lab"
+    ],
+    "category": "engagement",
+    "jobs": [
+      "webinars"
+    ],
+    "bestAt": "B2B event platform that repurposes webinars into clips and content with AI",
+    "website": "https://www.goldcast.io",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": true,
+      "note": "pricing not public; Content Lab has a free sign-up, events plans via demo",
+      "sourceUrl": "https://www.goldcast.io/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "on24",
+    "name": "ON24",
+    "aliases": [
+      "on24",
+      "on 24",
+      "on24 webcast",
+      "on24 webinars"
+    ],
+    "category": "engagement",
+    "jobs": [
+      "webinars"
+    ],
+    "bestAt": "Enterprise webinar platform with deep engagement analytics and compliance features",
+    "website": "https://www.on24.com",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not verified",
+      "sourceUrl": "https://www.on24.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "livestorm",
+    "name": "Livestorm",
+    "aliases": [
+      "livestorm",
+      "live storm",
+      "livestorm webinars"
+    ],
+    "category": "engagement",
+    "jobs": [
+      "webinars"
+    ],
+    "bestAt": "Browser-based webinars with simple setup and EU-friendly data handling",
+    "website": "https://livestorm.co",
+    "pricing": {
+      "status": "public",
+      "amount": 2.5,
+      "currency": "EUR",
+      "unit": null,
+      "plan": "Pro",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Pro is priced per attendee, not per month: €2.50 per attendee, bought as a yearly pack of attendee credits; unlimited team members",
+      "sourceUrl": "https://livestorm.co/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "zoom-webinars",
+    "name": "Zoom Webinars",
+    "aliases": [
+      "zoom webinars",
+      "zoom webinar",
+      "zoom video webinars",
+      "zoom events"
+    ],
+    "category": "engagement",
+    "jobs": [
+      "webinars"
+    ],
+    "bestAt": "Cheapest familiar webinar add-on for teams already standardized on Zoom",
+    "website": "https://www.zoom.com/en/products/webinars/",
+    "pricing": {
+      "status": "public",
+      "amount": 79,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Webinars (500 attendees)",
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "Lowest price ($79.00) read from the page's structured data; plan prices render client-side, so billing term could not be confirmed; priced per user license",
+      "sourceUrl": "https://www.zoom.com/en/products/webinars/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "demandtools",
+    "name": "DemandTools",
+    "aliases": [
+      "demandtools",
+      "demand tools",
+      "validity demandtools",
+      "crmfusion",
+      "dupeblocker"
+    ],
+    "category": "data-infra",
+    "jobs": [
+      "data-hygiene"
+    ],
+    "bestAt": "Admin power tool for Salesforce dedupe, mass updates and import standardization",
+    "website": "https://www.validity.com/demandtools/",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; Validity shows no DemandTools prices, contact sales",
+      "sourceUrl": "https://www.validity.com/demandtools/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "cloudingo",
+    "name": "Cloudingo",
+    "aliases": [
+      "cloudingo",
+      "cloud ingo",
+      "cloudingo dedupe"
+    ],
+    "category": "data-infra",
+    "jobs": [
+      "data-hygiene"
+    ],
+    "bestAt": "Salesforce-only dedupe and cleanup with scheduled automation at a flat annual price",
+    "website": "https://cloudingo.com",
+    "pricing": {
+      "status": "public",
+      "amount": 208.33,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Standard",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Standard $2,500/year (divided by 12); single user account; record fee of $100 per 100k records above 300k; 10-day free trial",
+      "sourceUrl": "https://cloudingo.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "dedupely",
+    "name": "Dedupely",
+    "aliases": [
+      "dedupely",
+      "dedupe.ly",
+      "dedupley",
+      "dedupely hubspot"
+    ],
+    "category": "data-infra",
+    "jobs": [
+      "data-hygiene"
+    ],
+    "bestAt": "Simple bulk duplicate merging for HubSpot, Pipedrive and Salesforce, unlimited users",
+    "website": "https://dedupe.ly",
+    "pricing": {
+      "status": "public",
+      "amount": 32,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Starter (30,000 records) $384/year, shown as $32/month; $40 billed monthly; unlimited users; free trial only",
+      "sourceUrl": "https://dedupe.ly/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "insycle",
+    "name": "Insycle",
+    "aliases": [
+      "insycle",
+      "insycle data management",
+      "insicle"
+    ],
+    "category": "data-infra",
+    "jobs": [
+      "data-hygiene"
+    ],
+    "bestAt": "Bulk CRM cleanup: dedupe, formatting and associations for HubSpot and Salesforce",
+    "website": "https://www.insycle.com",
+    "pricing": {
+      "status": "public",
+      "amount": 100,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Starter (1 module) $100/month billed annually at the page's default 100K-record setting; price varies by record count; unlimited users; 14-day trial",
+      "sourceUrl": "https://www.insycle.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  }
+]

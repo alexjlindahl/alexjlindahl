@@ -1,0 +1,1034 @@
+[
+  {
+    "id": "salesforce",
+    "name": "Salesforce Sales Cloud",
+    "aliases": [
+      "salesforce",
+      "sfdc",
+      "sales cloud",
+      "sales force",
+      "salesforce crm",
+      "sf"
+    ],
+    "category": "crm",
+    "jobs": [
+      "crm",
+      "deal-management",
+      "forecasting"
+    ],
+    "bestAt": "Most customizable enterprise CRM with the deepest ecosystem of integrations",
+    "website": "https://www.salesforce.com",
+    "pricing": {
+      "status": "public",
+      "amount": 25,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Starter Suite",
+      "billing": "monthly",
+      "hasFreeTier": true,
+      "note": "Starter Suite, page says \"billed monthly or annually\"; next tier Pro Suite $100/user/month billed annually. A $0 Free Suite appears in the comparison table",
+      "sourceUrl": "https://www.salesforce.com/sales/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "hubspot",
+    "name": "HubSpot Sales Hub",
+    "aliases": [
+      "hubspot",
+      "hubspot crm",
+      "sales hub",
+      "hub spot",
+      "hubspot sales",
+      "hubspot sales hub"
+    ],
+    "category": "crm",
+    "jobs": [
+      "crm",
+      "sales-engagement",
+      "deal-management",
+      "scheduling"
+    ],
+    "bestAt": "Easiest all-in-one CRM for SMB and mid-market, with a real free tier",
+    "website": "https://www.hubspot.com",
+    "pricing": {
+      "status": "public",
+      "amount": 20,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Starter",
+      "billing": "monthly",
+      "hasFreeTier": true,
+      "note": "Starter shows two \"starts at\" prices, $7/mo/seat and $20/mo/seat, without labelling the term; $20 taken as pay-monthly, $7 appears to be a new-customer discounted rate. Free CRM for up to 2 users",
+      "sourceUrl": "https://www.hubspot.com/pricing/sales",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "hubspot-marketing",
+    "name": "HubSpot Marketing Hub",
+    "aliases": [
+      "hubspot marketing",
+      "marketing hub",
+      "hubspot marketing hub",
+      "hubspot email"
+    ],
+    "category": "marketing-automation",
+    "jobs": [
+      "marketing-automation",
+      "attribution",
+      "web-personalization"
+    ],
+    "bestAt": "Marketing automation natively on the HubSpot CRM; fastest to get running",
+    "website": "https://www.hubspot.com/products/marketing",
+    "pricing": {
+      "status": "public",
+      "amount": 20,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Starter",
+      "billing": "monthly",
+      "hasFreeTier": true,
+      "note": "Starter shows two \"starts at\" prices, $7/mo/seat and $20/mo/seat, without labelling the term; $20 taken as pay-monthly. Professional starts at $800/mo (3 seats) plus $3,000 onboarding",
+      "sourceUrl": "https://www.hubspot.com/pricing/marketing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "pipedrive",
+    "name": "Pipedrive",
+    "aliases": [
+      "pipedrive",
+      "pipe drive",
+      "pipedrive crm"
+    ],
+    "category": "crm",
+    "jobs": [
+      "crm",
+      "deal-management"
+    ],
+    "bestAt": "Simple visual pipeline CRM that small sales teams actually adopt",
+    "website": "https://www.pipedrive.com",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not verified; vendor page blocked automated fetch (HTTP 403)",
+      "sourceUrl": "https://www.pipedrive.com/en/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "attio",
+    "name": "Attio",
+    "aliases": [
+      "attio",
+      "atio",
+      "attio crm"
+    ],
+    "category": "crm",
+    "jobs": [
+      "crm",
+      "data-orchestration",
+      "workflow-automation"
+    ],
+    "bestAt": "Flexible, modern data-model CRM favored by startups; great UX and API",
+    "website": "https://attio.com",
+    "pricing": {
+      "status": "public",
+      "amount": 40,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Plus",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Plus is $40/mo billed annually ($50 monthly) and includes 1 user; additional users $35/mo annual. Free plan for up to 3 users",
+      "sourceUrl": "https://attio.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "close",
+    "name": "Close",
+    "aliases": [
+      "close",
+      "close crm",
+      "close.io",
+      "closeio",
+      "close.com"
+    ],
+    "category": "crm",
+    "jobs": [
+      "crm",
+      "dialer",
+      "sales-engagement"
+    ],
+    "bestAt": "CRM with built-in calling, SMS and sequences for inside sales teams",
+    "website": "https://www.close.com",
+    "pricing": {
+      "status": "public",
+      "amount": 9,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Solo",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Solo is $9/user/month billed annually ($19 monthly); Essentials $35 annual. Calling/SMS usage billed separately; 14-day trial",
+      "sourceUrl": "https://www.close.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "zoho-crm",
+    "name": "Zoho CRM",
+    "aliases": [
+      "zoho",
+      "zoho crm",
+      "zohocrm",
+      "zoho one"
+    ],
+    "category": "crm",
+    "jobs": [
+      "crm",
+      "marketing-automation",
+      "deal-management"
+    ],
+    "bestAt": "Low-cost, feature-dense CRM inside the broad Zoho suite",
+    "website": "https://www.zoho.com/crm/",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": true,
+      "note": "pricing not verified; plan prices are JS-rendered; page confirms a free edition for up to 3 users",
+      "sourceUrl": "https://www.zoho.com/crm/zohocrm-pricing.html",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "dynamics-365-sales",
+    "name": "Microsoft Dynamics 365 Sales",
+    "aliases": [
+      "dynamics",
+      "dynamics 365",
+      "d365",
+      "dynamics crm",
+      "microsoft dynamics",
+      "ms dynamics",
+      "dynamics 365 sales"
+    ],
+    "category": "crm",
+    "jobs": [
+      "crm",
+      "forecasting",
+      "deal-management"
+    ],
+    "bestAt": "Enterprise CRM for Microsoft shops; tight Outlook, Teams and Power BI ties",
+    "website": "https://www.microsoft.com/en-us/dynamics-365/products/sales",
+    "pricing": {
+      "status": "public",
+      "amount": 65,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Sales Professional",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Sales Professional, per user/month paid yearly; Enterprise $105, Premium $150",
+      "sourceUrl": "https://www.microsoft.com/en-us/dynamics-365/products/sales/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "copper",
+    "name": "Copper",
+    "aliases": [
+      "copper",
+      "copper crm",
+      "prosperworks"
+    ],
+    "category": "crm",
+    "jobs": [
+      "crm",
+      "deal-management"
+    ],
+    "bestAt": "CRM that lives inside Gmail and Google Workspace",
+    "website": "https://www.copper.com",
+    "pricing": {
+      "status": "public",
+      "amount": 23,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Basic",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Basic is $23/seat/month paid annually ($29 monthly); free trial only",
+      "sourceUrl": "https://www.copper.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "folk",
+    "name": "folk",
+    "aliases": [
+      "folk",
+      "folk crm",
+      "folk.app"
+    ],
+    "category": "crm",
+    "jobs": [
+      "crm",
+      "enrichment",
+      "cold-email"
+    ],
+    "bestAt": "Lightweight relationship CRM with LinkedIn capture and built-in enrichment",
+    "website": "https://www.folk.app",
+    "pricing": {
+      "status": "public",
+      "amount": 24,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Standard",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Standard is $24/member/month billed yearly ($30 monthly); 2-week free trial, no free plan",
+      "sourceUrl": "https://www.folk.app/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "freshsales",
+    "name": "Freshsales",
+    "aliases": [
+      "freshsales",
+      "freshworks crm",
+      "fresh sales",
+      "freshworks",
+      "freshsales crm"
+    ],
+    "category": "crm",
+    "jobs": [
+      "crm",
+      "dialer",
+      "deal-management"
+    ],
+    "bestAt": "Affordable Freshworks CRM with built-in phone, email and AI scoring",
+    "website": "https://www.freshworks.com/crm/sales/",
+    "pricing": {
+      "status": "public",
+      "amount": 9,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Growth",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Growth is $9/user/month billed annually; Pro $39, Enterprise $59. 21-day trial; page meta mentions a free plan but none is listed in the plan grid",
+      "sourceUrl": "https://www.freshworks.com/crm/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "monday-crm",
+    "name": "monday CRM",
+    "aliases": [
+      "monday crm",
+      "monday sales crm",
+      "monday.com crm",
+      "monday",
+      "monday.com"
+    ],
+    "category": "crm",
+    "jobs": [
+      "crm",
+      "deal-management",
+      "workflow-automation"
+    ],
+    "bestAt": "Highly configurable board-style CRM for teams already on monday.com",
+    "website": "https://monday.com/crm",
+    "pricing": {
+      "status": "public",
+      "amount": 12,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Basic",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Basic is $12/seat/month on yearly billing (monthly billing higher); plans start from 3 seats; 14-day trial",
+      "sourceUrl": "https://monday.com/crm/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "salesflare",
+    "name": "Salesflare",
+    "aliases": [
+      "salesflare",
+      "sales flare"
+    ],
+    "category": "crm",
+    "jobs": [
+      "crm",
+      "cold-email",
+      "deal-management"
+    ],
+    "bestAt": "Auto-filling CRM for small B2B teams; logs email, meetings and contacts itself",
+    "website": "https://salesflare.com",
+    "pricing": {
+      "status": "public",
+      "amount": 29,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Growth",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Growth is $29/user/month billed annually ($39 monthly); 30-day trial",
+      "sourceUrl": "https://salesflare.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "marketo",
+    "name": "Adobe Marketo Engage",
+    "aliases": [
+      "marketo",
+      "marketo engage",
+      "adobe marketo",
+      "mkto"
+    ],
+    "category": "marketing-automation",
+    "jobs": [
+      "marketing-automation",
+      "abm",
+      "attribution"
+    ],
+    "bestAt": "Enterprise B2B marketing automation with deep lead scoring and nurture logic",
+    "website": "https://business.adobe.com/products/marketo/adobe-marketo.html",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not verified; vendor page returned HTTP 503 on every attempt",
+      "sourceUrl": "https://business.adobe.com/products/marketo/pricing.html",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "pardot",
+    "name": "Salesforce Marketing Cloud Account Engagement (Pardot)",
+    "aliases": [
+      "pardot",
+      "account engagement",
+      "salesforce account engagement",
+      "marketing cloud account engagement",
+      "mcae",
+      "salesforce pardot"
+    ],
+    "category": "marketing-automation",
+    "jobs": [
+      "marketing-automation",
+      "abm",
+      "attribution"
+    ],
+    "bestAt": "B2B marketing automation built natively on Salesforce objects",
+    "website": "https://www.salesforce.com/marketing/b2b-automation/",
+    "pricing": {
+      "status": "public",
+      "amount": 1250,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Growth+",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Growth+ is $1,250/org/month billed annually (annual contract required); formerly Pardot",
+      "sourceUrl": "https://www.salesforce.com/marketing/b2b-automation/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "activecampaign",
+    "name": "ActiveCampaign",
+    "aliases": [
+      "activecampaign",
+      "active campaign",
+      "ac"
+    ],
+    "category": "marketing-automation",
+    "jobs": [
+      "marketing-automation",
+      "crm"
+    ],
+    "bestAt": "Powerful automation builder at SMB prices, with a light built-in CRM",
+    "website": "https://www.activecampaign.com",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not verified; plan amounts are JS-rendered (page shows \"-- / Month\"); 14-day trial, no free plan listed",
+      "sourceUrl": "https://www.activecampaign.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "customer-io",
+    "name": "Customer.io",
+    "aliases": [
+      "customer.io",
+      "customer io",
+      "customerio",
+      "cio"
+    ],
+    "category": "marketing-automation",
+    "jobs": [
+      "marketing-automation",
+      "cdp"
+    ],
+    "bestAt": "Event-driven lifecycle messaging for product-led SaaS teams",
+    "website": "https://customer.io",
+    "pricing": {
+      "status": "public",
+      "amount": 100,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Essentials",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Essentials starts at $100/month billed monthly for 5k profiles; Premium starts at $1,000/month billed yearly",
+      "sourceUrl": "https://customer.io/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "klaviyo",
+    "name": "Klaviyo",
+    "aliases": [
+      "klaviyo",
+      "klavyo",
+      "klaviyo email"
+    ],
+    "category": "marketing-automation",
+    "jobs": [
+      "marketing-automation",
+      "cdp"
+    ],
+    "bestAt": "Ecommerce email and SMS automation with the deepest Shopify data",
+    "website": "https://www.klaviyo.com",
+    "pricing": {
+      "status": "public",
+      "amount": 20,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Email",
+      "billing": "monthly",
+      "hasFreeTier": true,
+      "note": "Email plan from $20/month for 500 active profiles; price scales with profiles. Free plan up to 250 profiles",
+      "sourceUrl": "https://www.klaviyo.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "mailchimp",
+    "name": "Mailchimp",
+    "aliases": [
+      "mailchimp",
+      "mail chimp",
+      "intuit mailchimp",
+      "mailchip"
+    ],
+    "category": "marketing-automation",
+    "jobs": [
+      "marketing-automation"
+    ],
+    "bestAt": "Easiest email newsletter and basic automation tool for small businesses",
+    "website": "https://mailchimp.com",
+    "pricing": {
+      "status": "public",
+      "amount": 13,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Essentials",
+      "billing": "monthly",
+      "hasFreeTier": true,
+      "note": "Essentials starts at $13/month (lowest contact tier; page flags introductory discounts for the first 12 months). Free plan up to 250 contacts",
+      "sourceUrl": "https://mailchimp.com/pricing/marketing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "brevo",
+    "name": "Brevo",
+    "aliases": [
+      "brevo",
+      "sendinblue",
+      "send in blue",
+      "sendinblue brevo"
+    ],
+    "category": "marketing-automation",
+    "jobs": [
+      "marketing-automation",
+      "crm",
+      "chat"
+    ],
+    "bestAt": "Cheap email, SMS and WhatsApp marketing priced by sends, not contacts",
+    "website": "https://www.brevo.com",
+    "pricing": {
+      "status": "public",
+      "amount": 9,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "monthly",
+      "hasFreeTier": true,
+      "note": "Starter from $9/month on monthly billing ($96.96/year on annual), read from pricing data embedded in the page; formerly Sendinblue",
+      "sourceUrl": "https://www.brevo.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "iterable",
+    "name": "Iterable",
+    "aliases": [
+      "iterable",
+      "itterable"
+    ],
+    "category": "marketing-automation",
+    "jobs": [
+      "marketing-automation",
+      "cdp"
+    ],
+    "bestAt": "Cross-channel B2C lifecycle messaging for large consumer brands",
+    "website": "https://iterable.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public",
+      "sourceUrl": "https://iterable.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "braze",
+    "name": "Braze",
+    "aliases": [
+      "braze",
+      "appboy",
+      "braize"
+    ],
+    "category": "marketing-automation",
+    "jobs": [
+      "marketing-automation",
+      "cdp"
+    ],
+    "bestAt": "Enterprise customer engagement for mobile-first consumer apps",
+    "website": "https://www.braze.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; priced on monthly active users; no free plan",
+      "sourceUrl": "https://www.braze.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "loops",
+    "name": "Loops",
+    "aliases": [
+      "loops",
+      "loops.so",
+      "loops email"
+    ],
+    "category": "marketing-automation",
+    "jobs": [
+      "marketing-automation"
+    ],
+    "bestAt": "Clean, simple product and marketing email for modern SaaS startups",
+    "website": "https://loops.so",
+    "pricing": {
+      "status": "public",
+      "amount": 49,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Growth",
+      "billing": "monthly",
+      "hasFreeTier": true,
+      "note": "Growth starts at $49/month for up to 5,000 subscribed contacts; no seat fees. Free up to 1,000 contacts",
+      "sourceUrl": "https://loops.so/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "drift",
+    "name": "Drift (Salesloft)",
+    "aliases": [
+      "drift",
+      "drift chat",
+      "salesloft drift",
+      "drift.com",
+      "1mind"
+    ],
+    "category": "chat",
+    "jobs": [
+      "chat",
+      "visitor-id",
+      "scheduling"
+    ],
+    "bestAt": "Pioneer of B2B conversational marketing chat; now inside Salesloft",
+    "website": "https://www.salesloft.com/platform/drift",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; Salesloft's Drift page now states \"We've transitioned from Drift to 1mind\"",
+      "sourceUrl": "https://www.salesloft.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "intercom",
+    "name": "Intercom",
+    "aliases": [
+      "intercom",
+      "inter com",
+      "intercom fin",
+      "fin"
+    ],
+    "category": "chat",
+    "jobs": [
+      "chat",
+      "customer-success"
+    ],
+    "bestAt": "Best-in-class in-app messenger and AI support agent (Fin)",
+    "website": "https://www.intercom.com",
+    "pricing": {
+      "status": "public",
+      "amount": 29,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Essential",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Essential is $29/seat/month billed annually (page shows $19 for new customers, 35% off); Fin AI Agent $0.99 per outcome on top; 14-day trial",
+      "sourceUrl": "https://www.intercom.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "qualified",
+    "name": "Qualified",
+    "aliases": [
+      "qualified",
+      "qualified.com",
+      "piper",
+      "qualified piper"
+    ],
+    "category": "chat",
+    "jobs": [
+      "chat",
+      "ai-sdr",
+      "visitor-id",
+      "scheduling"
+    ],
+    "bestAt": "Salesforce-native pipeline chat and AI SDR agent (Piper) for enterprise",
+    "website": "https://www.qualified.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public",
+      "sourceUrl": "https://www.qualified.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "calendly",
+    "name": "Calendly",
+    "aliases": [
+      "calendly",
+      "calendy",
+      "calendley",
+      "calenderly"
+    ],
+    "category": "scheduling",
+    "jobs": [
+      "scheduling",
+      "lead-routing"
+    ],
+    "bestAt": "The default scheduling link; simplest to adopt and universally recognized",
+    "website": "https://calendly.com",
+    "pricing": {
+      "status": "public",
+      "amount": 10,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Standard",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Standard is $10/seat/month billed yearly ($12 monthly); Teams $16 yearly. Free plan available",
+      "sourceUrl": "https://calendly.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "chili-piper",
+    "name": "Chili Piper",
+    "aliases": [
+      "chili piper",
+      "chilipiper",
+      "chilli piper",
+      "chili",
+      "chilical",
+      "concierge"
+    ],
+    "category": "scheduling",
+    "jobs": [
+      "scheduling",
+      "lead-routing"
+    ],
+    "bestAt": "Instant inbound form-to-meeting booking and routing for sales teams",
+    "website": "https://www.chilipiper.com",
+    "pricing": {
+      "status": "public",
+      "amount": 1250,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Growth",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Growth is $1,250/month billed annually, includes 15 seats ($45/seat/month after); ChiliCal standalone $12/user/month with 200-seat minimum",
+      "sourceUrl": "https://www.chilipiper.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "cal-com",
+    "name": "Cal.com",
+    "aliases": [
+      "cal.com",
+      "cal",
+      "calcom",
+      "cal dot com",
+      "calendso"
+    ],
+    "category": "scheduling",
+    "jobs": [
+      "scheduling",
+      "lead-routing"
+    ],
+    "bestAt": "Open-source, API-first scheduling you can self-host and embed",
+    "website": "https://cal.com",
+    "pricing": {
+      "status": "public",
+      "amount": 12,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Teams",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Teams is $12/user/month shown under yearly billing; Organizations $28. Free forever for individuals",
+      "sourceUrl": "https://cal.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "default",
+    "name": "Default",
+    "aliases": [
+      "default",
+      "default.com",
+      "default inbound"
+    ],
+    "category": "revops",
+    "jobs": [
+      "lead-routing",
+      "scheduling",
+      "workflow-automation",
+      "enrichment"
+    ],
+    "bestAt": "All-in-one inbound: forms, enrichment, routing and scheduling in one flow",
+    "website": "https://www.default.com",
+    "pricing": {
+      "status": "public",
+      "amount": 1000,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Growth",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Growth is $12,000 per year (divided by 12 here); seats extra at $240-$540 per user per year",
+      "sourceUrl": "https://www.default.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "revenuehero",
+    "name": "RevenueHero",
+    "aliases": [
+      "revenuehero",
+      "revenue hero",
+      "revhero"
+    ],
+    "category": "scheduling",
+    "jobs": [
+      "scheduling",
+      "lead-routing"
+    ],
+    "bestAt": "Cheaper, faster-to-deploy Chili Piper alternative for inbound routing",
+    "website": "https://www.revenuehero.io",
+    "pricing": {
+      "status": "public",
+      "amount": 79,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Essentials",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Essentials platform fee $79/month plus $25/seat/month on yearly billing ($99 + $35 monthly); no free plan or trial",
+      "sourceUrl": "https://www.revenuehero.io/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "leandata",
+    "name": "LeanData",
+    "aliases": [
+      "leandata",
+      "lean data",
+      "bookit",
+      "leandata bookit"
+    ],
+    "category": "revops",
+    "jobs": [
+      "lead-routing",
+      "scheduling",
+      "data-orchestration"
+    ],
+    "bestAt": "Gold-standard Salesforce lead-to-account matching and visual routing",
+    "website": "https://www.leandata.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; priced by features, objects and Salesforce users",
+      "sourceUrl": "https://www.leandata.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "savvycal",
+    "name": "SavvyCal",
+    "aliases": [
+      "savvycal",
+      "savvy cal",
+      "savvy"
+    ],
+    "category": "scheduling",
+    "jobs": [
+      "scheduling"
+    ],
+    "bestAt": "Scheduling links that let recipients overlay their own calendar",
+    "website": "https://savvycal.com",
+    "pricing": {
+      "status": "public",
+      "amount": 10,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Basic",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Basic is $120 per user billed annually ($10/month equivalent) or $12 monthly; polls are free but booking links need a paid plan",
+      "sourceUrl": "https://savvycal.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "crisp",
+    "name": "Crisp",
+    "aliases": [
+      "crisp",
+      "crisp chat",
+      "crisp.chat"
+    ],
+    "category": "chat",
+    "jobs": [
+      "chat",
+      "customer-success"
+    ],
+    "bestAt": "Flat per-workspace priced live chat and shared inbox for startups",
+    "website": "https://crisp.chat",
+    "pricing": {
+      "status": "public",
+      "amount": 45,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Mini",
+      "billing": "monthly",
+      "hasFreeTier": true,
+      "note": "Mini is $45/month per workspace (not per seat); Essentials $95. Free plan available",
+      "sourceUrl": "https://crisp.chat/en/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "tidio",
+    "name": "Tidio",
+    "aliases": [
+      "tidio",
+      "tidio chat",
+      "lyro"
+    ],
+    "category": "chat",
+    "jobs": [
+      "chat",
+      "customer-success"
+    ],
+    "bestAt": "Low-cost live chat plus AI chatbot (Lyro) for small ecommerce sites",
+    "website": "https://www.tidio.com",
+    "pricing": {
+      "status": "public",
+      "amount": 24.17,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Starter is $24.17/month as displayed with annual billing (2 months free); Growth from $49.17. Free plan available",
+      "sourceUrl": "https://www.tidio.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  }
+]

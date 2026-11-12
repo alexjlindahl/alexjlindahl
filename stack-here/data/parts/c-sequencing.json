@@ -1,0 +1,1066 @@
+[
+  {
+    "id": "outreach",
+    "name": "Outreach",
+    "aliases": [
+      "outreach",
+      "outreach.io",
+      "outreach io",
+      "outreach.ai",
+      "outreach ai"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "sales-engagement",
+      "forecasting",
+      "conversation-intelligence",
+      "deal-management"
+    ],
+    "bestAt": "Enterprise sales engagement with deep Salesforce sync, governance and forecasting",
+    "website": "https://www.outreach.ai",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; plans (Amplify Essentials/Core/Plus/Pro) are request-pricing; site now on outreach.ai",
+      "sourceUrl": "https://www.outreach.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "salesloft",
+    "name": "Salesloft",
+    "aliases": [
+      "salesloft",
+      "sales loft",
+      "salesloft cadence",
+      "cadence"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "sales-engagement",
+      "conversation-intelligence",
+      "forecasting",
+      "deal-management"
+    ],
+    "bestAt": "Enterprise cadence platform with coaching and deal tools; easier to adopt than Outreach",
+    "website": "https://www.salesloft.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public",
+      "sourceUrl": "https://www.salesloft.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "instantly",
+    "name": "Instantly",
+    "aliases": [
+      "instantly",
+      "instantly.ai",
+      "instantly ai",
+      "instantly io"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "cold-email",
+      "email-deliverability",
+      "contact-data"
+    ],
+    "bestAt": "High-volume cold email with unlimited sending accounts and built-in warmup",
+    "website": "https://instantly.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 37.6,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Growth (Outreach)",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Growth outreach plan, annual-billing monthly equivalent ($47/mo billed monthly); flat, not per seat",
+      "sourceUrl": "https://instantly.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "smartlead",
+    "name": "Smartlead",
+    "aliases": [
+      "smartlead",
+      "smartlead.ai",
+      "smartlead ai",
+      "smart lead"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "cold-email",
+      "email-deliverability"
+    ],
+    "bestAt": "Agency-friendly cold email with unlimited mailboxes, rotation and whitelabel",
+    "website": "https://www.smartlead.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 32,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Base",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Base plan, annual-billing monthly equivalent ($39/mo billed monthly); flat, unlimited email accounts",
+      "sourceUrl": "https://www.smartlead.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "lemlist",
+    "name": "lemlist",
+    "aliases": [
+      "lemlist",
+      "lem list",
+      "lemlist.com",
+      "lemwarm"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "cold-email",
+      "sales-engagement",
+      "linkedin-automation",
+      "email-deliverability"
+    ],
+    "bestAt": "Multichannel email + LinkedIn sequences with strong personalization and lemwarm",
+    "website": "https://www.lemlist.com",
+    "pricing": {
+      "status": "public",
+      "amount": 55,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Email",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Email plan, yearly-billing monthly equivalent ($69 billed monthly); priced per user",
+      "sourceUrl": "https://www.lemlist.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "reply-io",
+    "name": "Reply.io",
+    "aliases": [
+      "reply",
+      "reply.io",
+      "reply io",
+      "replyio",
+      "jason ai"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "sales-engagement",
+      "cold-email",
+      "ai-sdr",
+      "linkedin-automation"
+    ],
+    "bestAt": "Multichannel sequences plus Jason AI SDR agent at a mid-market price",
+    "website": "https://reply.io",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not verified",
+      "sourceUrl": "https://reply.io/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "mailshake",
+    "name": "Mailshake",
+    "aliases": [
+      "mailshake",
+      "mail shake"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "cold-email",
+      "sales-engagement",
+      "dialer"
+    ],
+    "bestAt": "Simple cold email sequencing for small teams and link-building outreach",
+    "website": "https://mailshake.com",
+    "pricing": {
+      "status": "public",
+      "amount": 25,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Starter plan, yearly-billing monthly equivalent ($29/mo billed monthly); billed per user",
+      "sourceUrl": "https://mailshake.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "woodpecker",
+    "name": "Woodpecker",
+    "aliases": [
+      "woodpecker",
+      "woodpecker.co",
+      "woodpecker co"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "cold-email",
+      "email-deliverability",
+      "linkedin-automation"
+    ],
+    "bestAt": "Deliverability-focused cold email for agencies and SMBs, priced by contacts",
+    "website": "https://woodpecker.co",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not verified",
+      "sourceUrl": "https://woodpecker.co/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "mixmax",
+    "name": "Mixmax",
+    "aliases": [
+      "mixmax",
+      "mix max"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "sales-engagement",
+      "scheduling"
+    ],
+    "bestAt": "Gmail-native sequences, tracking and scheduling for AEs and CSMs",
+    "website": "https://www.mixmax.com",
+    "pricing": {
+      "status": "public",
+      "amount": 29,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "100 recipients/month tier",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Lowest paid tier (100 recipients/month), per user per month billed yearly; free tier covers 50 recipients/month",
+      "sourceUrl": "https://www.mixmax.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "yesware",
+    "name": "Yesware",
+    "aliases": [
+      "yesware",
+      "yes ware"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "sales-engagement"
+    ],
+    "bestAt": "Lightweight email tracking, templates and campaigns inside Gmail/Outlook",
+    "website": "https://www.yesware.com",
+    "pricing": {
+      "status": "public",
+      "amount": 15,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Pro",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Pro plan, annual-billing monthly equivalent ($19/seat/month billed monthly); Free Forever plan listed",
+      "sourceUrl": "https://www.yesware.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "groove",
+    "name": "Groove (Clari)",
+    "aliases": [
+      "groove",
+      "groove.co",
+      "groove co",
+      "clari groove",
+      "groove clari",
+      "clari engage"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "sales-engagement",
+      "dialer"
+    ],
+    "bestAt": "Salesforce-native sales engagement for enterprise teams living in Salesforce",
+    "website": "https://www.clari.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; Groove was acquired by Clari; clari.com now redirects to salesloft.com (Clari and Salesloft combined)",
+      "sourceUrl": "https://www.clari.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "klenty",
+    "name": "Klenty",
+    "aliases": [
+      "klenty",
+      "klenty.com"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "sales-engagement",
+      "cold-email",
+      "dialer"
+    ],
+    "bestAt": "Affordable sequencing plus parallel dialer for SMB SDR teams",
+    "website": "https://www.klenty.com",
+    "pricing": {
+      "status": "public",
+      "amount": 50,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Starter plan, flat per month billed annually with unlimited users; higher plans are per user ($70+)",
+      "sourceUrl": "https://www.klenty.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "la-growth-machine",
+    "name": "La Growth Machine",
+    "aliases": [
+      "la growth machine",
+      "lagrowthmachine",
+      "lgm",
+      "growth machine"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "sales-engagement",
+      "linkedin-automation",
+      "cold-email"
+    ],
+    "bestAt": "True multichannel LinkedIn + email + X sequences with visual workflow builder",
+    "website": "https://lagrowthmachine.com",
+    "pricing": {
+      "status": "public",
+      "amount": 50,
+      "currency": "EUR",
+      "unit": "seat/month",
+      "plan": "Basic",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Basic plan, per identity (sender) per month on yearly billing (EUR 60 billed monthly); teammates free",
+      "sourceUrl": "https://lagrowthmachine.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "heyreach",
+    "name": "HeyReach",
+    "aliases": [
+      "heyreach",
+      "hey reach",
+      "heyreach.io",
+      "heyreach io"
+    ],
+    "category": "social-selling",
+    "jobs": [
+      "linkedin-automation"
+    ],
+    "bestAt": "LinkedIn outreach at scale across many sender accounts; flat agency pricing",
+    "website": "https://www.heyreach.io",
+    "pricing": {
+      "status": "public",
+      "amount": 64,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Growth",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Growth plan, per sender per month billed yearly ($79 billed monthly)",
+      "sourceUrl": "https://www.heyreach.io/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "expandi",
+    "name": "Expandi",
+    "aliases": [
+      "expandi",
+      "expandi.io",
+      "expandi io",
+      "expandy"
+    ],
+    "category": "social-selling",
+    "jobs": [
+      "linkedin-automation"
+    ],
+    "bestAt": "Cloud LinkedIn automation with dedicated IPs and image/GIF personalization",
+    "website": "https://expandi.io",
+    "pricing": {
+      "status": "public",
+      "amount": 99,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Business",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Business plan, $99 per month on monthly billing; annual toggle (20% off) shows $79",
+      "sourceUrl": "https://expandi.io/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "dripify",
+    "name": "Dripify",
+    "aliases": [
+      "dripify",
+      "drippify",
+      "dripify.io"
+    ],
+    "category": "social-selling",
+    "jobs": [
+      "linkedin-automation"
+    ],
+    "bestAt": "Easy LinkedIn drip campaigns for individual reps and small teams",
+    "website": "https://dripify.com",
+    "pricing": {
+      "status": "public",
+      "amount": 59,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Pro",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Pro plan, per user per month billed annually ($79 billed monthly)",
+      "sourceUrl": "https://dripify.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "waalaxy",
+    "name": "Waalaxy",
+    "aliases": [
+      "waalaxy",
+      "walaxy",
+      "waalaxi",
+      "prospectin"
+    ],
+    "category": "social-selling",
+    "jobs": [
+      "linkedin-automation",
+      "cold-email"
+    ],
+    "bestAt": "Beginner-friendly LinkedIn automation Chrome extension with simple templates",
+    "website": "https://www.waalaxy.com",
+    "pricing": {
+      "status": "public",
+      "amount": 19,
+      "currency": "EUR",
+      "unit": "seat/month",
+      "plan": "Pro",
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "Pro plan as displayed (EUR 19/user/month); page has monthly/quarterly/yearly toggles and does not label which term the displayed figure reflects",
+      "sourceUrl": "https://www.waalaxy.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "amplemarket",
+    "name": "Amplemarket",
+    "aliases": [
+      "amplemarket",
+      "ample market",
+      "duo copilot"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "sales-engagement",
+      "contact-data",
+      "ai-sdr",
+      "signal-tracking"
+    ],
+    "bestAt": "All-in-one AI outbound: data, signals, multichannel sequences, deliverability",
+    "website": "https://www.amplemarket.com",
+    "pricing": {
+      "status": "public",
+      "amount": 600,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Startup",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Startup plan, $600/mo on annual term, includes 2 users; Growth and Elite are custom",
+      "sourceUrl": "https://www.amplemarket.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "lavender",
+    "name": "Lavender",
+    "aliases": [
+      "lavender",
+      "lavender.ai",
+      "lavender ai",
+      "lavender email coach",
+      "ora"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "email-writing-ai",
+      "sales-coaching"
+    ],
+    "bestAt": "Real-time AI email coach that scores and improves reps' cold emails",
+    "website": "https://www.lavender.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 27,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Email Coach Starter (individual), billed annually ($29 billed monthly); Basic plan is free forever",
+      "sourceUrl": "https://www.lavender.ai/coach",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "regie-ai",
+    "name": "Regie.ai",
+    "aliases": [
+      "regie",
+      "regie.ai",
+      "regie ai",
+      "reggie ai"
+    ],
+    "category": "ai-sdr",
+    "jobs": [
+      "ai-sdr",
+      "sales-engagement",
+      "email-writing-ai",
+      "dialer"
+    ],
+    "bestAt": "AI agents that prospect, write and run sequences alongside reps, with dialer",
+    "website": "https://www.regie.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 41,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Pro",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Pro plan for one person, billed annually ($49 billed monthly); credit-based; free plan with one-time credits",
+      "sourceUrl": "https://www.regie.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "mailreach",
+    "name": "MailReach",
+    "aliases": [
+      "mailreach",
+      "mail reach",
+      "mailreach.co"
+    ],
+    "category": "email-infra",
+    "jobs": [
+      "email-deliverability"
+    ],
+    "bestAt": "Email warmup and spam testing with a large, high-quality warmup network",
+    "website": "https://www.mailreach.co",
+    "pricing": {
+      "status": "public",
+      "amount": 19.5,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "All-In-One (warmer + spam tester)",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "$19.5 per mailbox per month on monthly billing; spam-test credits extra; annual saves 20% but rate not shown",
+      "sourceUrl": "https://www.mailreach.co/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "warmbox",
+    "name": "Warmbox",
+    "aliases": [
+      "warmbox",
+      "warm box",
+      "warmbox.ai"
+    ],
+    "category": "email-infra",
+    "jobs": [
+      "email-deliverability"
+    ],
+    "bestAt": "Simple inbox warmup tool for a handful of cold email mailboxes",
+    "website": "https://www.warmbox.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 15,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Solo",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Solo plan (1 inbox), yearly-billing monthly figure ($19 on monthly billing)",
+      "sourceUrl": "https://www.warmbox.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "mailforge",
+    "name": "Mailforge",
+    "aliases": [
+      "mailforge",
+      "mail forge",
+      "mailforge.ai"
+    ],
+    "category": "email-infra",
+    "jobs": [
+      "email-deliverability"
+    ],
+    "bestAt": "Cheap shared-infrastructure domains and mailboxes for cold email at scale",
+    "website": "https://www.mailforge.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 3,
+      "currency": "USD",
+      "unit": "month",
+      "plan": null,
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "$3 per mailbox slot per month, 10-slot minimum; cheaper on yearly billing; domains $14/year extra",
+      "sourceUrl": "https://www.mailforge.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "infraforge",
+    "name": "Infraforge",
+    "aliases": [
+      "infraforge",
+      "infra forge",
+      "infraforge.ai"
+    ],
+    "category": "email-infra",
+    "jobs": [
+      "email-deliverability"
+    ],
+    "bestAt": "Private dedicated-IP email infrastructure for high-volume cold outreach",
+    "website": "https://www.infraforge.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 4,
+      "currency": "USD",
+      "unit": "month",
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "$4 per mailbox slot per month on quarterly billing, 10-slot minimum; cheaper on yearly; domains $14/year and dedicated IPs $99/mo extra",
+      "sourceUrl": "https://www.infraforge.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "salesforge",
+    "name": "Salesforge",
+    "aliases": [
+      "salesforge",
+      "sales forge",
+      "salesforge.ai",
+      "agent frank"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "cold-email",
+      "ai-sdr",
+      "email-writing-ai"
+    ],
+    "bestAt": "Cold email sequencer with AI personalization and Agent Frank AI SDR",
+    "website": "https://www.salesforge.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 40,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Pro",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Pro plan, $40/month billed monthly, 1 user included; annual gives 2 months free",
+      "sourceUrl": "https://www.salesforge.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "maildoso",
+    "name": "Maildoso",
+    "aliases": [
+      "maildoso",
+      "mail doso",
+      "maildoso.ai"
+    ],
+    "category": "email-infra",
+    "jobs": [
+      "email-deliverability"
+    ],
+    "bestAt": "Very low-cost bulk mailboxes for cold email on its own infrastructure",
+    "website": "https://maildoso.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 75,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "30 mailboxes",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "30-mailbox plan at $75/mo ($2.5 per mailbox), monthly billing; domains extra",
+      "sourceUrl": "https://maildoso.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "saleshandy",
+    "name": "Saleshandy",
+    "aliases": [
+      "saleshandy",
+      "sales handy"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "cold-email",
+      "email-deliverability",
+      "contact-data"
+    ],
+    "bestAt": "Budget cold email with unlimited accounts, unified inbox and lead finder",
+    "website": "https://www.saleshandy.com",
+    "pricing": {
+      "status": "public",
+      "amount": 34,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Starter plan, $34/mo billed as $408/year ($41/mo billed monthly); 1 user",
+      "sourceUrl": "https://www.saleshandy.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "quickmail",
+    "name": "QuickMail",
+    "aliases": [
+      "quickmail",
+      "quick mail",
+      "quickmail.io",
+      "quickmail io"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "cold-email",
+      "email-deliverability"
+    ],
+    "bestAt": "Deliverability-first cold email with inbox rotation and no per-seat fees",
+    "website": "https://quickmail.com",
+    "pricing": {
+      "status": "public",
+      "amount": 49,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Starter plan, flat monthly fee with unlimited users; no annual price shown",
+      "sourceUrl": "https://quickmail.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "overloop",
+    "name": "Overloop",
+    "aliases": [
+      "overloop",
+      "overloop ai",
+      "prospect.io",
+      "prospect io"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "sales-engagement",
+      "ai-sdr",
+      "linkedin-automation"
+    ],
+    "bestAt": "AI-generated multichannel email + LinkedIn campaigns with built-in sourcing",
+    "website": "https://overloop.com",
+    "pricing": {
+      "status": "public",
+      "amount": 69,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Starter",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Starter plan, $69/user/mo; no annual figure shown",
+      "sourceUrl": "https://overloop.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "outplay",
+    "name": "Outplay",
+    "aliases": [
+      "outplay",
+      "outplay hq",
+      "outplayhq",
+      "outplay.ai"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "sales-engagement",
+      "dialer",
+      "cold-email"
+    ],
+    "bestAt": "Full multichannel sales engagement for SMBs at a fraction of Outreach's cost",
+    "website": "https://outplay.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 39,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Starter plan, $39 per month billed annually (page does not label it per user; Growth is $89 per user); Free Forever plan listed",
+      "sourceUrl": "https://outplay.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "trigify",
+    "name": "Trigify",
+    "aliases": [
+      "trigify",
+      "trigify.io",
+      "trigify io",
+      "triggify"
+    ],
+    "category": "intent",
+    "jobs": [
+      "signal-tracking",
+      "intent-data"
+    ],
+    "bestAt": "LinkedIn social-signal tracking (post engagement) to trigger outbound",
+    "website": "https://www.trigify.io",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; team joined HubSpot and the standalone Trigify platform was wound down (access ended 22 Oct 2026)",
+      "sourceUrl": "https://www.trigify.io/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "aimfox",
+    "name": "Aimfox",
+    "aliases": [
+      "aimfox",
+      "aim fox",
+      "aimfox.com"
+    ],
+    "category": "social-selling",
+    "jobs": [
+      "linkedin-automation"
+    ],
+    "bestAt": "LinkedIn automation with unified inbox and rentable outreach profiles",
+    "website": "https://aimfox.com",
+    "pricing": {
+      "status": "public",
+      "amount": 49,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Outreach seat",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Outreach seat, $49/mo per seat; yearly toggle (up to -25%) figure not shown",
+      "sourceUrl": "https://aimfox.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "twain",
+    "name": "Twain",
+    "aliases": [
+      "twain",
+      "twain.ai",
+      "twain ai"
+    ],
+    "category": "sequencing",
+    "jobs": [
+      "email-writing-ai",
+      "cold-email"
+    ],
+    "bestAt": "AI that writes researched, personalized outbound sequences per lead",
+    "website": "https://www.twain.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 49,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter (500 credits)",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Starter, 500 credits for $49/month billed monthly; no per-seat pricing",
+      "sourceUrl": "https://www.twain.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "copy-ai",
+    "name": "Copy.ai",
+    "aliases": [
+      "copy.ai",
+      "copy ai",
+      "copyai",
+      "copy-ai"
+    ],
+    "category": "automation",
+    "jobs": [
+      "workflow-automation",
+      "email-writing-ai"
+    ],
+    "bestAt": "GTM AI workflow platform for content and prospecting copy at scale",
+    "website": "https://www.copy.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 24,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Chat",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Chat plan, $24/mo billed $288/yr ($29 billed monthly), 5 seats; workflow plans start at $1,000/mo",
+      "sourceUrl": "https://www.copy.ai/prices",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "warmup-inbox",
+    "name": "Warmup Inbox",
+    "aliases": [
+      "warmup inbox",
+      "warmupinbox",
+      "warm up inbox",
+      "warmupinbox.com"
+    ],
+    "category": "email-infra",
+    "jobs": [
+      "email-deliverability"
+    ],
+    "bestAt": "Standalone inbox warmup priced per inbox with a free tier",
+    "website": "https://www.warmupinbox.com",
+    "pricing": {
+      "status": "public",
+      "amount": 15,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Basic",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Basic plan, $15/mo per inbox billed $180 yearly; free plan with limited warmup emails",
+      "sourceUrl": "https://www.warmupinbox.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "folderly",
+    "name": "Folderly",
+    "aliases": [
+      "folderly",
+      "folderly.com",
+      "folderly ai"
+    ],
+    "category": "email-infra",
+    "jobs": [
+      "email-deliverability"
+    ],
+    "bestAt": "Premium deliverability diagnosis and inbox-placement repair per mailbox",
+    "website": "https://folderly.com",
+    "pricing": {
+      "status": "public",
+      "amount": 96,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Folderly (yearly)",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "$96 per mailbox per month on yearly billing; separate Inbox Insights tool has a free plan",
+      "sourceUrl": "https://folderly.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "zapmail",
+    "name": "Zapmail",
+    "aliases": [
+      "zapmail",
+      "zap mail",
+      "zapmail.ai"
+    ],
+    "category": "email-infra",
+    "jobs": [
+      "email-deliverability"
+    ],
+    "bestAt": "Cheap Google Workspace/Microsoft mailboxes with automated DNS setup for cold email",
+    "website": "https://zapmail.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 39,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Starter plan, $39/month billed monthly, includes 10 Google Workspace mailboxes",
+      "sourceUrl": "https://zapmail.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  }
+]

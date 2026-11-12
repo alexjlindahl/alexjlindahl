@@ -1,0 +1,1373 @@
+[
+  {
+    "id": "orum",
+    "name": "Orum",
+    "aliases": [
+      "orum",
+      "orum dialer",
+      "orum.io"
+    ],
+    "category": "calling",
+    "jobs": [
+      "dialer",
+      "sales-coaching"
+    ],
+    "bestAt": "AI parallel dialer for high-volume outbound SDR teams with live coaching",
+    "website": "https://www.orum.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; request pricing, 9-seat minimum; free trial limited to 500 dials",
+      "sourceUrl": "https://www.orum.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "nooks",
+    "name": "Nooks",
+    "aliases": [
+      "nooks",
+      "nooks ai",
+      "nooks dialer",
+      "nooks.ai"
+    ],
+    "category": "calling",
+    "jobs": [
+      "dialer",
+      "sales-coaching",
+      "ai-sdr"
+    ],
+    "bestAt": "AI parallel dialer with virtual salesfloor and AI prospecting assistant",
+    "website": "https://www.nooks.ai",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; custom quote",
+      "sourceUrl": "https://www.nooks.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "aircall",
+    "name": "Aircall",
+    "aliases": [
+      "aircall",
+      "air call",
+      "aircall.io"
+    ],
+    "category": "calling",
+    "jobs": [
+      "business-phone",
+      "dialer"
+    ],
+    "bestAt": "Cloud phone system with deep CRM/helpdesk integrations for SMB sales and support",
+    "website": "https://aircall.io",
+    "pricing": {
+      "status": "public",
+      "amount": 30,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Essentials",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Essentials, per license billed annually; 3-license minimum; free access to test, no free plan",
+      "sourceUrl": "https://aircall.io/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "dialpad",
+    "name": "Dialpad",
+    "aliases": [
+      "dialpad",
+      "dial pad",
+      "dialpad ai",
+      "dialpad sell",
+      "dialpad connect"
+    ],
+    "category": "calling",
+    "jobs": [
+      "business-phone",
+      "dialer",
+      "conversation-intelligence"
+    ],
+    "bestAt": "AI-native business phone with built-in live transcription and call summaries",
+    "website": "https://www.dialpad.com",
+    "pricing": {
+      "status": "public",
+      "amount": 15,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Connect Standard",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Connect Standard (business phone), annual rate; Sell (sales dialer) Essentials is $39/user/month; 14-day trial",
+      "sourceUrl": "https://www.dialpad.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "justcall",
+    "name": "JustCall",
+    "aliases": [
+      "justcall",
+      "just call",
+      "justcall.io",
+      "saleshandy justcall"
+    ],
+    "category": "calling",
+    "jobs": [
+      "business-phone",
+      "dialer",
+      "conversation-intelligence"
+    ],
+    "bestAt": "Affordable SMB phone + SMS with power dialer and 100+ CRM integrations",
+    "website": "https://justcall.io",
+    "pricing": {
+      "status": "public",
+      "amount": 29,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Team",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Team plan, billed annually; 14-day free trial",
+      "sourceUrl": "https://justcall.io/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "kixie",
+    "name": "Kixie",
+    "aliases": [
+      "kixie",
+      "kixie powercall",
+      "kixie power call",
+      "kixi"
+    ],
+    "category": "calling",
+    "jobs": [
+      "dialer",
+      "business-phone"
+    ],
+    "bestAt": "Multi-line power dialer and SMS with local presence for HubSpot/Pipedrive teams",
+    "website": "https://www.kixie.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; plan cards (Professional, Single-Line, Multi-Line PowerDialer) show no prices; 7-day free trial",
+      "sourceUrl": "https://www.kixie.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "ringcentral",
+    "name": "RingCentral",
+    "aliases": [
+      "ringcentral",
+      "ring central",
+      "ringex",
+      "ringcentral mvp",
+      "ringcentral office"
+    ],
+    "category": "calling",
+    "jobs": [
+      "business-phone"
+    ],
+    "bestAt": "Enterprise-grade UCaaS phone, messaging and video with broad global coverage",
+    "website": "https://www.ringcentral.com",
+    "pricing": {
+      "status": "public",
+      "amount": 20,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "RingEX Core",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "RingEX Core, billed annually ($30 monthly); free trial available",
+      "sourceUrl": "https://www.ringcentral.com/office/plansandpricing.html",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "phoneburner",
+    "name": "PhoneBurner",
+    "aliases": [
+      "phoneburner",
+      "phone burner",
+      "phonburner"
+    ],
+    "category": "calling",
+    "jobs": [
+      "dialer"
+    ],
+    "bestAt": "Power dialer with no connection delay and strong spam-flag/number reputation tools",
+    "website": "https://www.phoneburner.com",
+    "pricing": {
+      "status": "public",
+      "amount": 140,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Standard",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Standard plan, billed annually ($165 monthly); free trial",
+      "sourceUrl": "https://www.phoneburner.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "connectandsell",
+    "name": "ConnectAndSell",
+    "aliases": [
+      "connectandsell",
+      "connect and sell",
+      "connect & sell",
+      "connectandsell lightning",
+      "cas"
+    ],
+    "category": "calling",
+    "jobs": [
+      "dialer"
+    ],
+    "bestAt": "Agent-assisted dialing that delivers live conversations on demand at huge volume",
+    "website": "https://connectandsell.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; seat-based, contact sales; free one-day test drive",
+      "sourceUrl": "https://connectandsell.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "koncert",
+    "name": "Koncert",
+    "aliases": [
+      "koncert",
+      "koncert dialer",
+      "connectleader",
+      "connect leader"
+    ],
+    "category": "calling",
+    "jobs": [
+      "dialer",
+      "sales-engagement"
+    ],
+    "bestAt": "Choice of AI parallel, flow, click and agent-assisted dialers in one platform",
+    "website": "https://www.koncert.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; formerly ConnectLeader",
+      "sourceUrl": "https://www.koncert.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "cloudtalk",
+    "name": "CloudTalk",
+    "aliases": [
+      "cloudtalk",
+      "cloud talk",
+      "cloudtalk.io"
+    ],
+    "category": "calling",
+    "jobs": [
+      "business-phone",
+      "dialer"
+    ],
+    "bestAt": "Cloud call center with international numbers in 160+ countries for SMB teams",
+    "website": "https://www.cloudtalk.io",
+    "pricing": {
+      "status": "public",
+      "amount": 25,
+      "currency": "EUR",
+      "unit": "seat/month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Starter, billed annually (EUR 34 monthly); 14-day trial",
+      "sourceUrl": "https://www.cloudtalk.io/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "trellus",
+    "name": "Trellus",
+    "aliases": [
+      "trellus",
+      "trellus ai",
+      "trelus"
+    ],
+    "category": "calling",
+    "jobs": [
+      "dialer",
+      "sales-coaching"
+    ],
+    "bestAt": "Low-cost parallel dialer and real-time call coaching layered on Outreach/Salesloft",
+    "website": "https://www.trellus.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 99.99,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Power",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Power plan per seat, monthly; Power + Parallel $149.99; no free plan or trial",
+      "sourceUrl": "https://www.trellus.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "salesfinity",
+    "name": "Salesfinity",
+    "aliases": [
+      "salesfinity",
+      "sales finity",
+      "salesfinity ai"
+    ],
+    "category": "calling",
+    "jobs": [
+      "dialer"
+    ],
+    "bestAt": "AI parallel dialer with transparent self-serve pricing and smart contact scoring",
+    "website": "https://www.salesfinity.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 249,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Gold",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Gold, per license billed annually ($299 month-to-month); admin licenses free",
+      "sourceUrl": "https://www.salesfinity.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "11x",
+    "name": "11x",
+    "aliases": [
+      "11x",
+      "11x ai",
+      "11x.ai",
+      "alice",
+      "alice ai sdr",
+      "julian",
+      "eleven x"
+    ],
+    "category": "ai-sdr",
+    "jobs": [
+      "ai-sdr",
+      "cold-email"
+    ],
+    "bestAt": "Autonomous AI SDR (Alice) and AI phone agent (Julian) sold as digital workers",
+    "website": "https://www.11x.ai",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; no pricing page; demo only",
+      "sourceUrl": null,
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "artisan",
+    "name": "Artisan",
+    "aliases": [
+      "artisan",
+      "artisan ai",
+      "ava",
+      "ava ai sdr",
+      "artisan ava",
+      "artisan.co"
+    ],
+    "category": "ai-sdr",
+    "jobs": [
+      "ai-sdr",
+      "cold-email",
+      "contact-data"
+    ],
+    "bestAt": "AI BDR 'Ava' with built-in 250M+ contact database and email warmup",
+    "website": "https://www.artisan.co",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; plans scoped by leads contacted per month, talk to sales",
+      "sourceUrl": "https://www.artisan.co/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "aisdr",
+    "name": "AiSDR",
+    "aliases": [
+      "aisdr",
+      "ai sdr",
+      "aisdr.com"
+    ],
+    "category": "ai-sdr",
+    "jobs": [
+      "ai-sdr",
+      "cold-email",
+      "email-writing-ai"
+    ],
+    "bestAt": "Pay-as-you-go AI SDR for email outreach with quarterly rather than annual terms",
+    "website": "https://aisdr.com",
+    "pricing": {
+      "status": "public",
+      "amount": null,
+      "currency": "USD",
+      "unit": null,
+      "plan": "Pay as you go",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Usage-based, no fixed monthly price: $1.50 per person prospected (self-serve, charged daily); team plans volume-based by quote",
+      "sourceUrl": "https://aisdr.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "unify",
+    "name": "Unify",
+    "aliases": [
+      "unify",
+      "unifygtm",
+      "unify gtm",
+      "unify.com"
+    ],
+    "category": "ai-sdr",
+    "jobs": [
+      "signal-tracking",
+      "ai-sdr",
+      "sales-engagement",
+      "visitor-id"
+    ],
+    "bestAt": "Signal-triggered automated outbound plays combining intent, enrichment and sequences",
+    "website": "https://www.unifygtm.com",
+    "pricing": {
+      "status": "public",
+      "amount": 20,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Base",
+      "billing": "monthly",
+      "hasFreeTier": true,
+      "note": "Base plan per seat, billed monthly; Pro $60/seat/month; free plan up to 3 seats",
+      "sourceUrl": "https://www.unifygtm.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "relevance-ai",
+    "name": "Relevance AI",
+    "aliases": [
+      "relevance ai",
+      "relevanceai",
+      "relevance",
+      "relevance ai agents"
+    ],
+    "category": "ai-sdr",
+    "jobs": [
+      "ai-sdr",
+      "workflow-automation"
+    ],
+    "bestAt": "No-code builder for custom AI agent workforces, incl. a BDR agent",
+    "website": "https://relevanceai.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; page lists only an Enterprise plan, talk to sales",
+      "sourceUrl": "https://relevanceai.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "rox",
+    "name": "Rox",
+    "aliases": [
+      "rox",
+      "rox ai",
+      "rox.com"
+    ],
+    "category": "ai-sdr",
+    "jobs": [
+      "ai-sdr",
+      "signal-tracking",
+      "deal-management"
+    ],
+    "bestAt": "Agent swarms that research accounts and run workflows on top of your warehouse/CRM",
+    "website": "https://www.rox.com",
+    "pricing": {
+      "status": "public",
+      "amount": 100,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Individual",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Individual plan $100/month; Teams $255/month for whole team; free trial",
+      "sourceUrl": "https://www.rox.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "actively-ai",
+    "name": "Actively AI",
+    "aliases": [
+      "actively",
+      "actively ai",
+      "actively.ai"
+    ],
+    "category": "ai-sdr",
+    "jobs": [
+      "signal-tracking",
+      "ai-sdr"
+    ],
+    "bestAt": "Custom reasoning models that tell reps which accounts to work and why",
+    "website": "https://www.actively.ai",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; no pricing page",
+      "sourceUrl": null,
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "topo",
+    "name": "Topo",
+    "aliases": [
+      "topo",
+      "topo.io",
+      "topo ai",
+      "topo sales"
+    ],
+    "category": "ai-sdr",
+    "jobs": [
+      "ai-sdr",
+      "sales-engagement",
+      "cold-email"
+    ],
+    "bestAt": "AI sales agent that co-pilots reps on multichannel outbound with their own playbook",
+    "website": "https://www.topo.io",
+    "pricing": {
+      "status": "public",
+      "amount": 89,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Solo",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Solo plan per seat per month; Team $129; free trial",
+      "sourceUrl": "https://topo.io/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "bardeen",
+    "name": "Bardeen",
+    "aliases": [
+      "bardeen",
+      "bardeen ai",
+      "bardeen.ai"
+    ],
+    "category": "automation",
+    "jobs": [
+      "workflow-automation",
+      "enrichment"
+    ],
+    "bestAt": "Browser-based AI automation for scraping, enrichment and repetitive GTM tasks",
+    "website": "https://www.bardeen.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 10,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Basic",
+      "billing": "monthly",
+      "hasFreeTier": true,
+      "note": "Basic, billed monthly (credit-based); Premium $50/month or $480/year; 100 free credits always included",
+      "sourceUrl": "https://www.bardeen.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "valley",
+    "name": "Valley",
+    "aliases": [
+      "valley",
+      "joinvalley",
+      "join valley",
+      "valley ai"
+    ],
+    "category": "ai-sdr",
+    "jobs": [
+      "linkedin-automation",
+      "ai-sdr",
+      "signal-tracking"
+    ],
+    "bestAt": "AI SDR for LinkedIn that turns intent signals into personalized outreach",
+    "website": "https://www.joinvalley.co",
+    "pricing": {
+      "status": "public",
+      "amount": 199,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Starter",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Starter per seat billed monthly ($149/seat/month if billed quarterly); 7-day trial",
+      "sourceUrl": "https://www.joinvalley.co/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "demandbase",
+    "name": "Demandbase",
+    "aliases": [
+      "demandbase",
+      "demand base",
+      "demandbase one",
+      "engagio"
+    ],
+    "category": "abm",
+    "jobs": [
+      "abm",
+      "intent-data",
+      "company-data"
+    ],
+    "bestAt": "Enterprise ABM suite combining intent, B2B advertising and sales intelligence",
+    "website": "https://www.demandbase.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; platform fee plus per-user fee, custom quote",
+      "sourceUrl": "https://www.demandbase.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "6sense",
+    "name": "6sense",
+    "aliases": [
+      "6sense",
+      "sixsense",
+      "six sense",
+      "6 sense",
+      "6sense revenue ai"
+    ],
+    "category": "abm",
+    "jobs": [
+      "intent-data",
+      "abm",
+      "signal-tracking"
+    ],
+    "bestAt": "Predictive account intent and buying-stage scoring for enterprise ABM",
+    "website": "https://6sense.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public",
+      "sourceUrl": "https://6sense.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "bombora",
+    "name": "Bombora",
+    "aliases": [
+      "bombora",
+      "bombora company surge",
+      "company surge",
+      "bombara"
+    ],
+    "category": "intent",
+    "jobs": [
+      "intent-data"
+    ],
+    "bestAt": "Co-op sourced third-party topic intent (Company Surge) that feeds other tools",
+    "website": "https://bombora.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; no pricing page; speak to an expert",
+      "sourceUrl": null,
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "g2-buyer-intent",
+    "name": "G2 Buyer Intent",
+    "aliases": [
+      "g2 buyer intent",
+      "g2 intent",
+      "g2",
+      "g2 crowd",
+      "g2 intent data"
+    ],
+    "category": "intent",
+    "jobs": [
+      "intent-data"
+    ],
+    "bestAt": "Shows which companies are researching your G2 category, profile and competitors",
+    "website": "https://sell.g2.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": true,
+      "note": "pricing not public; Buyer Intent is an unpriced add-on to G2 seller plans (G2 Starter listed at $299/month; free profile available)",
+      "sourceUrl": "https://sell.g2.com/plans",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "trustradius-buyer-intent",
+    "name": "TrustRadius Buyer Intent",
+    "aliases": [
+      "trustradius buyer intent",
+      "trustradius",
+      "trust radius",
+      "trustradius intent",
+      "hg insights trustradius"
+    ],
+    "category": "intent",
+    "jobs": [
+      "intent-data"
+    ],
+    "bestAt": "Downstream intent from in-market buyers comparing products on TrustRadius",
+    "website": "https://www.trustradius.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; TrustRadius was acquired by HG Insights; vendor site now redirects to hginsights.com",
+      "sourceUrl": null,
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "rb2b",
+    "name": "RB2B",
+    "aliases": [
+      "rb2b",
+      "rb 2b",
+      "retention b2b",
+      "rb2b.com"
+    ],
+    "category": "intent",
+    "jobs": [
+      "visitor-id"
+    ],
+    "bestAt": "Person-level US website visitor identification pushed straight to Slack",
+    "website": "https://www.rb2b.com",
+    "pricing": {
+      "status": "public",
+      "amount": 79,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "monthly",
+      "hasFreeTier": true,
+      "note": "Starter, flat monthly; Pro from $149/month; priced by monthly resolutions; free plan",
+      "sourceUrl": "https://www.rb2b.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "warmly",
+    "name": "Warmly",
+    "aliases": [
+      "warmly",
+      "warmly ai",
+      "warmly.ai",
+      "getwarmly"
+    ],
+    "category": "intent",
+    "jobs": [
+      "visitor-id",
+      "signal-tracking",
+      "chat",
+      "intent-data"
+    ],
+    "bestAt": "Visitor de-anonymization plus AI chat and automated warm outbound orchestration",
+    "website": "https://www.warmly.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 833.33,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "AI Web-Deanonymization",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Starting at $10,000/year (divided by 12); credit-based",
+      "sourceUrl": "https://www.warmly.ai/p/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "koala",
+    "name": "Koala",
+    "aliases": [
+      "koala",
+      "getkoala",
+      "get koala",
+      "koala.io"
+    ],
+    "category": "intent",
+    "jobs": [
+      "visitor-id",
+      "signal-tracking"
+    ],
+    "bestAt": "Lightweight account intent and visitor ID for PLG teams (shut down after acquisition)",
+    "website": "https://getkoala.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; Koala was acquired by Cursor; site banner says the product is shutting down on Sept 30",
+      "sourceUrl": "https://getkoala.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "leadfeeder",
+    "name": "Leadfeeder",
+    "aliases": [
+      "leadfeeder",
+      "lead feeder",
+      "dealfront",
+      "leadfeeder by dealfront",
+      "dealfront leadfeeder"
+    ],
+    "category": "intent",
+    "jobs": [
+      "visitor-id",
+      "company-data"
+    ],
+    "bestAt": "Company-level website visitor ID with strong European coverage and GDPR posture",
+    "website": "https://www.leadfeeder.com",
+    "pricing": {
+      "status": "public",
+      "amount": 79,
+      "currency": "EUR",
+      "unit": "month",
+      "plan": "Discover",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Discover from EUR 79/month billed annually, tiered by identified companies; unlimited users; free Lite plan. dealfront.com/pricing redirects here",
+      "sourceUrl": "https://www.leadfeeder.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "lead-forensics",
+    "name": "Lead Forensics",
+    "aliases": [
+      "lead forensics",
+      "leadforensics",
+      "lead forensic"
+    ],
+    "category": "intent",
+    "jobs": [
+      "visitor-id"
+    ],
+    "bestAt": "Company-level visitor identification with managed onboarding and real-time alerts",
+    "website": "https://www.leadforensics.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; priced on traffic volume; one-week free trial",
+      "sourceUrl": "https://www.leadforensics.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "vector",
+    "name": "Vector",
+    "aliases": [
+      "vector",
+      "vector.co",
+      "vector ai",
+      "vector ads"
+    ],
+    "category": "intent",
+    "jobs": [
+      "visitor-id",
+      "signal-tracking",
+      "abm"
+    ],
+    "bestAt": "Contact-level visitor and ad-engagement identification for contact-based ads",
+    "website": "https://www.vector.co",
+    "pricing": {
+      "status": "public",
+      "amount": 3000,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Growth",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "$36,000/year annual contract (divided by 12); unlimited seats",
+      "sourceUrl": "https://www.vector.co/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "common-room",
+    "name": "Common Room",
+    "aliases": [
+      "common room",
+      "commonroom",
+      "common room io",
+      "commonroom.io"
+    ],
+    "category": "intent",
+    "jobs": [
+      "signal-tracking",
+      "visitor-id",
+      "enrichment"
+    ],
+    "bestAt": "Unifies product, community, social and web signals into person-level buyer intent",
+    "website": "https://www.commonroom.io",
+    "pricing": {
+      "status": "public",
+      "amount": 2500,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Essential",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Essential $2,500/mo billed annually; 5 seats included",
+      "sourceUrl": "https://www.commonroom.io/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "usergems",
+    "name": "UserGems",
+    "aliases": [
+      "usergems",
+      "user gems",
+      "usergem",
+      "gem-e"
+    ],
+    "category": "intent",
+    "jobs": [
+      "signal-tracking",
+      "contact-data"
+    ],
+    "bestAt": "Champion job-change tracking that auto-creates pipeline from past buyers",
+    "website": "https://www.usergems.com",
+    "pricing": {
+      "status": "public",
+      "amount": 3333.33,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Core",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Core $40,000/year (divided by 12); one-time implementation fee extra",
+      "sourceUrl": "https://www.usergems.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "champify",
+    "name": "Champify",
+    "aliases": [
+      "champify",
+      "champify.io",
+      "champifi"
+    ],
+    "category": "intent",
+    "jobs": [
+      "signal-tracking",
+      "contact-data"
+    ],
+    "bestAt": "Job-change tracking of past champions and users, written natively into Salesforce",
+    "website": "https://www.champify.io",
+    "pricing": {
+      "status": "public",
+      "amount": 500,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Champify Lite",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Champify Lite starting at $500/month",
+      "sourceUrl": "https://www.champify.io/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "keyplay",
+    "name": "Keyplay",
+    "aliases": [
+      "keyplay",
+      "key play",
+      "keyplay.io"
+    ],
+    "category": "intent",
+    "jobs": [
+      "company-data",
+      "signal-tracking",
+      "abm"
+    ],
+    "bestAt": "ICP modeling and account scoring from custom fit signals to build target lists",
+    "website": "https://keyplay.io",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not verified; page content did not render",
+      "sourceUrl": "https://keyplay.io/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "pocus",
+    "name": "Pocus",
+    "aliases": [
+      "pocus",
+      "pocus ai",
+      "pocus.com",
+      "pokus"
+    ],
+    "category": "intent",
+    "jobs": [
+      "signal-tracking",
+      "ai-sdr"
+    ],
+    "bestAt": "AI prospecting that fuses product-usage and intent signals into rep playbooks",
+    "website": "https://www.pocus.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; Pocus announced it is joining Apollo; site shows waitlist only",
+      "sourceUrl": "https://www.pocus.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "rollworks",
+    "name": "AdRoll ABM (formerly RollWorks)",
+    "aliases": [
+      "rollworks",
+      "roll works",
+      "adroll abm",
+      "adroll",
+      "rollworks abm",
+      "nextroll"
+    ],
+    "category": "abm",
+    "jobs": [
+      "abm",
+      "intent-data"
+    ],
+    "bestAt": "Mid-market account-based advertising and retargeting at lower cost than enterprise ABM",
+    "website": "https://www.adroll.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; RollWorks rebranded to AdRoll ABM (rollworks.com redirects to adroll.com); ABM plans by demo request",
+      "sourceUrl": "https://www.adroll.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "terminus",
+    "name": "Terminus",
+    "aliases": [
+      "terminus",
+      "terminus abm",
+      "demandscience",
+      "demandscience terminus",
+      "sigstr",
+      "ramble chat"
+    ],
+    "category": "abm",
+    "jobs": [
+      "abm",
+      "intent-data"
+    ],
+    "bestAt": "Multi-channel ABM advertising platform, now part of DemandScience",
+    "website": "https://demandscience.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; Terminus was acquired by DemandScience; terminus.com now redirects to demandscience.com",
+      "sourceUrl": null,
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "metadata-io",
+    "name": "Metadata.io",
+    "aliases": [
+      "metadata",
+      "metadata.io",
+      "metadata io",
+      "meta data io"
+    ],
+    "category": "abm",
+    "jobs": [
+      "abm",
+      "marketing-automation"
+    ],
+    "bestAt": "Automated B2B paid-campaign experimentation and audience targeting across ad channels",
+    "website": "https://metadata.io",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; scoped per team on a demo",
+      "sourceUrl": "https://metadata.io/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "mutiny",
+    "name": "Mutiny",
+    "aliases": [
+      "mutiny",
+      "mutinyhq",
+      "mutiny hq",
+      "mutiny ai"
+    ],
+    "category": "abm",
+    "jobs": [
+      "web-personalization",
+      "abm"
+    ],
+    "bestAt": "No-code website personalization and 1:1 ABM microsites for target accounts",
+    "website": "https://www.mutinyhq.com",
+    "pricing": {
+      "status": "public",
+      "amount": 50,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Business",
+      "billing": "monthly",
+      "hasFreeTier": true,
+      "note": "Business $50 per month; Enterprise starting at $40,000/year; free plan",
+      "sourceUrl": "https://www.mutinyhq.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "influ2",
+    "name": "Influ2",
+    "aliases": [
+      "influ2",
+      "influ 2",
+      "influtwo",
+      "influ2.com"
+    ],
+    "category": "abm",
+    "jobs": [
+      "abm",
+      "signal-tracking"
+    ],
+    "bestAt": "Contact-level (person-based) advertising with per-person engagement reporting",
+    "website": "https://www.influ2.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; no pricing page; demo only",
+      "sourceUrl": null,
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "snitcher",
+    "name": "Snitcher",
+    "aliases": [
+      "snitcher",
+      "snitcher.com",
+      "snicher"
+    ],
+    "category": "intent",
+    "jobs": [
+      "visitor-id"
+    ],
+    "bestAt": "Affordable self-serve company-level visitor ID with usage-tiered pricing",
+    "website": "https://www.snitcher.com",
+    "pricing": {
+      "status": "public",
+      "amount": 49,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Platform",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "From $49/month for 0-50 identified companies, monthly rate (annual about 30% off, figure not shown); no seat fees; 14-day trial",
+      "sourceUrl": "https://www.snitcher.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "albacross",
+    "name": "Albacross",
+    "aliases": [
+      "albacross",
+      "alba cross",
+      "albacros"
+    ],
+    "category": "intent",
+    "jobs": [
+      "visitor-id",
+      "intent-data"
+    ],
+    "bestAt": "European company-level visitor identification and intent for B2B sites",
+    "website": "https://www.albacross.com",
+    "pricing": {
+      "status": "public",
+      "amount": 59,
+      "currency": "EUR",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Starter EUR 59/month billed yearly (EUR 84 monthly), tiered by identified companies; 14-day trial",
+      "sourceUrl": "https://www.albacross.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "lonescale",
+    "name": "LoneScale",
+    "aliases": [
+      "lonescale",
+      "lone scale",
+      "lonescale.com"
+    ],
+    "category": "intent",
+    "jobs": [
+      "signal-tracking",
+      "contact-data",
+      "data-hygiene"
+    ],
+    "bestAt": "Job-change, new-hire and tech-stack signals from job posts synced to CRM",
+    "website": "https://www.lonescale.com",
+    "pricing": {
+      "status": "public",
+      "amount": 200,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Starter $200/month, unlimited users; 20% annual discount offered (figure not shown); 100 free test credits",
+      "sourceUrl": "https://www.lonescale.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  }
+]

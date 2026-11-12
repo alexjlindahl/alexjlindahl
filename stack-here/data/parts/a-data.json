@@ -1,0 +1,1210 @@
+[
+  {
+    "id": "clay",
+    "name": "Clay",
+    "aliases": [
+      "clay.com",
+      "clay run",
+      "clay.run",
+      "clay gtm"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "waterfall-enrichment",
+      "data-orchestration",
+      "enrichment",
+      "workflow-automation"
+    ],
+    "bestAt": "Spreadsheet-style waterfall enrichment across 100+ providers with AI research agents",
+    "website": "https://www.clay.com",
+    "pricing": {
+      "status": "public",
+      "amount": 167,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Launch",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Launch plan from $167/mo on annual billing ($185/mo monthly); usage-based (15K actions + 2.5K data credits/mo), not per seat",
+      "sourceUrl": "https://www.clay.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "apollo",
+    "name": "Apollo.io",
+    "aliases": [
+      "apollo",
+      "apollo io",
+      "apolloio",
+      "appollo",
+      "apollo.io"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "contact-data",
+      "sales-engagement",
+      "email-finding",
+      "dialer"
+    ],
+    "bestAt": "Cheap all-in-one contact database plus sequencing and dialer for SMB outbound",
+    "website": "https://www.apollo.io",
+    "pricing": {
+      "status": "public",
+      "amount": 49,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Basic",
+      "billing": null,
+      "hasFreeTier": true,
+      "note": "Basic plan $49 per the pricing page's structured data; page did not make clear whether this is the annual or monthly rate; credit limits apply",
+      "sourceUrl": "https://www.apollo.io/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "zoominfo",
+    "name": "ZoomInfo",
+    "aliases": [
+      "zoom info",
+      "zi",
+      "zoominfo sales",
+      "zoominfo copilot",
+      "salesos",
+      "discoverorg"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "contact-data",
+      "company-data",
+      "intent-data",
+      "phone-data"
+    ],
+    "bestAt": "Deepest US enterprise contact and org-chart database with intent and Copilot workflows",
+    "website": "https://www.zoominfo.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; quote-based on licenses, features and credits",
+      "sourceUrl": "https://www.zoominfo.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "cognism",
+    "name": "Cognism",
+    "aliases": [
+      "cognizm",
+      "cognism diamond data",
+      "kognism"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "contact-data",
+      "phone-data",
+      "intent-data",
+      "enrichment"
+    ],
+    "bestAt": "Phone-verified mobile numbers with strong EMEA coverage and GDPR compliance",
+    "website": "https://www.cognism.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; Standard and Pro packages are quote-only",
+      "sourceUrl": "https://www.cognism.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "lusha",
+    "name": "Lusha",
+    "aliases": [
+      "lusha.com",
+      "lucha",
+      "lusha extension"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "contact-data",
+      "phone-data",
+      "email-finding",
+      "enrichment"
+    ],
+    "bestAt": "Fast self-serve Chrome extension for direct dials and emails from LinkedIn",
+    "website": "https://www.lusha.com",
+    "pricing": {
+      "status": "public",
+      "amount": 37.45,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Starter $37.45/mo billed annually ($449.10/yr) or $49.90 monthly; includes 1 seat and 400 credits/mo",
+      "sourceUrl": "https://www.lusha.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "rocketreach",
+    "name": "RocketReach",
+    "aliases": [
+      "rocket reach",
+      "rocketreach.co",
+      "rocketreach co"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "contact-data",
+      "email-finding",
+      "phone-data"
+    ],
+    "bestAt": "Broad email and phone lookup for any professional, popular with recruiters and PR",
+    "website": "https://rocketreach.co",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": true,
+      "note": "pricing not verified; pricing page is JS-rendered and returned no prices",
+      "sourceUrl": "https://rocketreach.co/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "seamless-ai",
+    "name": "Seamless.AI",
+    "aliases": [
+      "seamless",
+      "seamless ai",
+      "seamlessai",
+      "seemless ai"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "contact-data",
+      "email-finding",
+      "phone-data"
+    ],
+    "bestAt": "Real-time AI search engine for building SMB contact lists with a Chrome extension",
+    "website": "https://seamless.ai",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": true,
+      "note": "pricing not verified; pricing page is JS-rendered and returned no prices",
+      "sourceUrl": "https://seamless.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "leadiq",
+    "name": "LeadIQ",
+    "aliases": [
+      "lead iq",
+      "leadiq.com",
+      "leadiq scribe"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "contact-data",
+      "email-finding",
+      "phone-data",
+      "signal-tracking"
+    ],
+    "bestAt": "One-click capture of LinkedIn prospects straight into CRM and sequences",
+    "website": "https://leadiq.com",
+    "pricing": {
+      "status": "public",
+      "amount": 200,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Pro",
+      "billing": null,
+      "hasFreeTier": true,
+      "note": "Pro shown as $200/month (credit-based); page has an 'Annual billing (25% off)' toggle and it was not clear which term the $200 reflects",
+      "sourceUrl": "https://leadiq.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "clearbit",
+    "name": "Clearbit (HubSpot Breeze Intelligence)",
+    "aliases": [
+      "clearbit",
+      "breeze intelligence",
+      "hubspot breeze intelligence",
+      "breeze",
+      "hubspot data enrichment",
+      "clear bit",
+      "clearbit enrichment",
+      "clearbit reveal"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "enrichment",
+      "company-data",
+      "visitor-id",
+      "intent-data"
+    ],
+    "bestAt": "Company and contact enrichment built natively into HubSpot CRM records and forms",
+    "website": "https://www.hubspot.com",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not verified; Clearbit was acquired by HubSpot and became Breeze Intelligence; clearbit.com now only says 'Clearbit has joined HubSpot', the Breeze Intelligence product URLs 404, and HubSpot community posts say it is now called Data Enrichment and runs on HubSpot Credits; no standalone price found",
+      "sourceUrl": null,
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "people-data-labs",
+    "name": "People Data Labs",
+    "aliases": [
+      "pdl",
+      "peopledatalabs",
+      "people data labs api",
+      "peopledatalabs.com"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "enrichment",
+      "contact-data",
+      "company-data"
+    ],
+    "bestAt": "Developer-first person and company data APIs and bulk datasets for building products",
+    "website": "https://www.peopledatalabs.com",
+    "pricing": {
+      "status": "public",
+      "amount": 78.33,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Pro",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Pro 'Starting at $940/yr' on annual billing (divided by 12 = $78.33/mo) or 'Starting at $98/mo' monthly; from 350 credits/mo; free plan has 100 credits/mo",
+      "sourceUrl": "https://www.peopledatalabs.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "hunter",
+    "name": "Hunter",
+    "aliases": [
+      "hunter.io",
+      "hunter io",
+      "email hunter",
+      "hunterio"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "email-finding",
+      "email-verification",
+      "cold-email"
+    ],
+    "bestAt": "Domain search that finds and verifies every public email pattern at a company",
+    "website": "https://hunter.io",
+    "pricing": {
+      "status": "public",
+      "amount": 34,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Starter $34/mo billed yearly ($408/yr) or $49 monthly; 2,000 credits/mo",
+      "sourceUrl": "https://hunter.io/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "dropcontact",
+    "name": "Dropcontact",
+    "aliases": [
+      "drop contact",
+      "dropcontact.io",
+      "dropcontact.com"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "enrichment",
+      "email-finding",
+      "data-hygiene",
+      "email-verification"
+    ],
+    "bestAt": "GDPR-compliant email enrichment and CRM cleaning that uses no stored database",
+    "website": "https://www.dropcontact.com",
+    "pricing": {
+      "status": "public",
+      "amount": 24,
+      "currency": "EUR",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Starter EUR 24/mo on annual billing (6,000 credits/yr) or EUR 29 monthly (500 credits/mo); 50 free trial credits",
+      "sourceUrl": "https://www.dropcontact.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "kaspr",
+    "name": "Kaspr",
+    "aliases": [
+      "kaspr.io",
+      "kasper",
+      "casper",
+      "kaspr extension"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "phone-data",
+      "contact-data",
+      "email-finding"
+    ],
+    "bestAt": "LinkedIn Chrome extension for European mobile numbers; Cognism's self-serve sibling",
+    "website": "https://www.kaspr.io",
+    "pricing": {
+      "status": "public",
+      "amount": 49,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Starter shows $49 and $65 per user/month (EUR 45/59, GBP 39/51); lower figure taken as the annual-billing rate",
+      "sourceUrl": "https://www.kaspr.io/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "contactout",
+    "name": "ContactOut",
+    "aliases": [
+      "contact out",
+      "contactout.com",
+      "contactout extension"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "contact-data",
+      "email-finding",
+      "phone-data"
+    ],
+    "bestAt": "Personal emails and phone numbers from LinkedIn profiles, favored by recruiters",
+    "website": "https://contactout.com",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": true,
+      "note": "pricing not verified; plan prices are JS-rendered and came back blank",
+      "sourceUrl": "https://contactout.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "uplead",
+    "name": "UpLead",
+    "aliases": [
+      "up lead",
+      "uplead.com"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "contact-data",
+      "email-verification",
+      "technographics",
+      "company-data"
+    ],
+    "bestAt": "Affordable B2B database with real-time email verification and a 95% accuracy guarantee",
+    "website": "https://www.uplead.com",
+    "pricing": {
+      "status": "public",
+      "amount": 74,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Essentials",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Essentials $74/mo billed annually (2,040 credits/yr) or $99 monthly (170 credits); 7-day free trial with 5 credits",
+      "sourceUrl": "https://www.uplead.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "lead411",
+    "name": "Lead411",
+    "aliases": [
+      "lead 411",
+      "lead411.com",
+      "lead four eleven"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "contact-data",
+      "intent-data",
+      "phone-data",
+      "signal-tracking"
+    ],
+    "bestAt": "Contact data bundled with Bombora intent and growth triggers, with unlimited-style plans",
+    "website": "https://www.lead411.com",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not verified; vendor pricing page returned HTTP 403 to automated fetches",
+      "sourceUrl": "https://www.lead411.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "salesintel",
+    "name": "SalesIntel",
+    "aliases": [
+      "sales intel",
+      "salesintel.io",
+      "salesintel io"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "contact-data",
+      "intent-data",
+      "phone-data",
+      "visitor-id"
+    ],
+    "bestAt": "Human-verified contacts re-checked every 90 days with research-on-demand included",
+    "website": "https://salesintel.io",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; 'Request Pricing' only",
+      "sourceUrl": "https://salesintel.io/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "datanyze",
+    "name": "Datanyze",
+    "aliases": [
+      "datanyse",
+      "datanize",
+      "datanyze extension",
+      "data nyze"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "contact-data",
+      "email-finding",
+      "phone-data"
+    ],
+    "bestAt": "Low-cost Chrome extension for emails and direct dials from LinkedIn (ZoomInfo-owned)",
+    "website": "https://www.datanyze.com",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": true,
+      "note": "pricing not verified; vendor pricing page returned HTTP 403 to automated fetches",
+      "sourceUrl": "https://www.datanyze.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "snov-io",
+    "name": "Snov.io",
+    "aliases": [
+      "snov",
+      "snovio",
+      "snov io",
+      "snov.io"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "email-finding",
+      "cold-email",
+      "email-verification",
+      "linkedin-automation"
+    ],
+    "bestAt": "Budget email finder, verifier and cold-email sequences in one credit-based tool",
+    "website": "https://snov.io",
+    "pricing": {
+      "status": "public",
+      "amount": 29.25,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Starter $29.25/mo on annual billing ($39 monthly); unlimited team seats, credit-based",
+      "sourceUrl": "https://snov.io/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "fullenrich",
+    "name": "FullEnrich",
+    "aliases": [
+      "full enrich",
+      "fullenrich.com",
+      "fullenrich waterfall"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "waterfall-enrichment",
+      "email-finding",
+      "phone-data",
+      "enrichment"
+    ],
+    "bestAt": "Simple waterfall across 15+ vendors for emails and mobiles; pay only for found data",
+    "website": "https://fullenrich.com",
+    "pricing": {
+      "status": "public",
+      "amount": 55,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Pro",
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "Pro shown at $55/mo for 1,000 credits ($0.055/credit) as the default; a slider starts at 500 credits and a Monthly/Annual toggle exists, so cheaper entry points may apply; free trial with 50 credits",
+      "sourceUrl": "https://fullenrich.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "bettercontact",
+    "name": "BetterContact",
+    "aliases": [
+      "better contact",
+      "bettercontact.rocks",
+      "bettercontact rocks"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "waterfall-enrichment",
+      "email-finding",
+      "phone-data",
+      "enrichment"
+    ],
+    "bestAt": "Waterfall email and phone enrichment over 20+ sources, charged only for verified hits",
+    "website": "https://bettercontact.rocks",
+    "pricing": {
+      "status": "public",
+      "amount": 15,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Starter $15/mo billed monthly; annual billing gives 2 months free (annual figure not read); credits roll over",
+      "sourceUrl": "https://bettercontact.rocks/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "prospeo",
+    "name": "Prospeo",
+    "aliases": [
+      "prospeo.io",
+      "prospeo io",
+      "prospio"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "email-finding",
+      "email-verification",
+      "phone-data",
+      "contact-data"
+    ],
+    "bestAt": "Accurate LinkedIn and domain email finder with API and Sales Navigator export",
+    "website": "https://prospeo.io",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": true,
+      "note": "pricing not verified; pricing page is JS-rendered and returned no prices",
+      "sourceUrl": "https://prospeo.io/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "findymail",
+    "name": "Findymail",
+    "aliases": [
+      "findy mail",
+      "findymail.com",
+      "find my mail"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "email-finding",
+      "email-verification",
+      "phone-data",
+      "data-hygiene"
+    ],
+    "bestAt": "Verified-only email finder for Sales Navigator and Apollo exports with low bounce rates",
+    "website": "https://www.findymail.com",
+    "pricing": {
+      "status": "public",
+      "amount": 49,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Basic",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Basic credit plan $49/month; a 'Pay Yearly, 2 months free' toggle exists but no annual figure was shown; prospecting plans start at $99/month; 10 free trial credits",
+      "sourceUrl": "https://www.findymail.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "wiza",
+    "name": "Wiza",
+    "aliases": [
+      "wiza.co",
+      "wiza co",
+      "wizza"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "email-finding",
+      "contact-data",
+      "phone-data",
+      "email-verification"
+    ],
+    "bestAt": "Turns Sales Navigator searches into verified email and phone lists in one click",
+    "website": "https://wiza.co",
+    "pricing": {
+      "status": "public",
+      "amount": 49,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Starter",
+      "billing": "monthly",
+      "hasFreeTier": true,
+      "note": "Starter $49 per user/month, shown under monthly billing only; cheapest annual plan is Email at $83/user/mo billed $990/yr",
+      "sourceUrl": "https://wiza.co/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "surfe",
+    "name": "Surfe",
+    "aliases": [
+      "surfe.com",
+      "leadjet",
+      "surf",
+      "surfe extension"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "contact-data",
+      "waterfall-enrichment",
+      "email-finding",
+      "phone-data"
+    ],
+    "bestAt": "Pushes LinkedIn contacts into CRM with waterfall email and phone enrichment",
+    "website": "https://www.surfe.com",
+    "pricing": {
+      "status": "public",
+      "amount": 39,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Essential",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Essential $39/user/mo billed annually or $49 monthly; formerly Leadjet",
+      "sourceUrl": "https://www.surfe.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "crunchbase",
+    "name": "Crunchbase",
+    "aliases": [
+      "crunch base",
+      "crunchbase pro",
+      "cb",
+      "crunchbase.com"
+    ],
+    "category": "intelligence",
+    "jobs": [
+      "company-data",
+      "signal-tracking"
+    ],
+    "bestAt": "Go-to source for startup funding rounds, investors and acquisition signals",
+    "website": "https://www.crunchbase.com",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": true,
+      "note": "pricing not verified; pricing page returned HTTP 403 / a JS shell with no prices",
+      "sourceUrl": "https://www.crunchbase.com/buy/select-product",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "linkedin-sales-navigator",
+    "name": "LinkedIn Sales Navigator",
+    "aliases": [
+      "sales nav",
+      "sales navigator",
+      "salesnav",
+      "linkedin sales nav",
+      "lsn",
+      "linkedin navigator",
+      "sales navigater"
+    ],
+    "category": "social-selling",
+    "jobs": [
+      "contact-data",
+      "signal-tracking",
+      "company-data"
+    ],
+    "bestAt": "LinkedIn's own advanced lead search, saved-lead alerts and InMail; freshest job data",
+    "website": "https://business.linkedin.com/sales-solutions/sales-navigator",
+    "pricing": {
+      "status": "public",
+      "amount": 89.99,
+      "currency": "USD",
+      "unit": "seat/month",
+      "plan": "Core",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Core 'starts at' US$1,079.88/year per license on annual billing (divided by 12 = $89.99/mo) or US$119.99/month monthly; Advanced Plus is quote-only",
+      "sourceUrl": "https://business.linkedin.com/sales-solutions/compare-plans",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "dnb-hoovers",
+    "name": "D&B Hoovers",
+    "aliases": [
+      "hoovers",
+      "dnb hoovers",
+      "d&b hoovers",
+      "dun and bradstreet hoovers",
+      "dun & bradstreet",
+      "d and b hoovers",
+      "dnb"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "company-data",
+      "contact-data"
+    ],
+    "bestAt": "Dun & Bradstreet firmographics, corporate family trees and D-U-N-S linkage for enterprise",
+    "website": "https://www.dnb.com/en-us/products/dnb-hoovers.html",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; product page shows no prices, only 'Request a Free Trial'",
+      "sourceUrl": "https://www.dnb.com/en-us/products/dnb-hoovers.html",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "ocean-io",
+    "name": "Ocean.io",
+    "aliases": [
+      "ocean",
+      "ocean io",
+      "oceanio",
+      "ocean.io"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "company-data",
+      "contact-data",
+      "abm"
+    ],
+    "bestAt": "Lookalike company search that finds accounts similar to your best customers",
+    "website": "https://www.ocean.io",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not verified; vendor pricing page returned HTTP 403 to automated fetches",
+      "sourceUrl": "https://www.ocean.io/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "store-leads",
+    "name": "Store Leads",
+    "aliases": [
+      "storeleads",
+      "storeleads.app",
+      "store leads app"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "company-data",
+      "technographics",
+      "contact-data"
+    ],
+    "bestAt": "Database of e-commerce stores by platform, apps installed and sales estimates",
+    "website": "https://storeleads.app",
+    "pricing": {
+      "status": "public",
+      "amount": 75,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Premium",
+      "billing": "monthly",
+      "hasFreeTier": false,
+      "note": "Premium $75/month (1 user, $35 per additional user/month); 15% discount on yearly plans, annual figure not shown",
+      "sourceUrl": "https://storeleads.app/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "builtwith",
+    "name": "BuiltWith",
+    "aliases": [
+      "built with",
+      "builtwith.com",
+      "builtwith pro",
+      "buildwith"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "technographics",
+      "company-data"
+    ],
+    "bestAt": "Largest historical index of website technologies for building tech-install lead lists",
+    "website": "https://builtwith.com",
+    "pricing": {
+      "status": "public",
+      "amount": 245.83,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Basic",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Basic $2,950/year on yearly billing (divided by 12 = $245.83/mo) or $295/month monthly; individual site lookups are free",
+      "sourceUrl": "https://builtwith.com/plans",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "wappalyzer",
+    "name": "Wappalyzer",
+    "aliases": [
+      "wapalyzer",
+      "wappalizer",
+      "wappalyzer extension",
+      "wapplyzer"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "technographics",
+      "company-data"
+    ],
+    "bestAt": "Lightweight tech-stack lookup extension and API, cheaper than BuiltWith for lists",
+    "website": "https://www.wappalyzer.com",
+    "pricing": {
+      "status": "public",
+      "amount": 250,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Pro",
+      "billing": "monthly",
+      "hasFreeTier": true,
+      "note": "Pro $250/mo on monthly billing; annual billing saves 17% (annual figure not read); free tier for website research",
+      "sourceUrl": "https://www.wappalyzer.com/pricing/",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "hg-insights",
+    "name": "HG Insights",
+    "aliases": [
+      "hg data",
+      "hginsights",
+      "hg insights",
+      "hg",
+      "hgdata"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "technographics",
+      "company-data",
+      "intent-data"
+    ],
+    "bestAt": "Enterprise-grade technographics with IT spend and contract intelligence for TAM sizing",
+    "website": "https://hginsights.com",
+    "pricing": {
+      "status": "not_public",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not public; 'Request a Demo' only; no free trial",
+      "sourceUrl": "https://hginsights.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "zerobounce",
+    "name": "ZeroBounce",
+    "aliases": [
+      "zero bounce",
+      "zerobounce.net",
+      "zerobounce one"
+    ],
+    "category": "email-infra",
+    "jobs": [
+      "email-verification",
+      "email-deliverability",
+      "data-hygiene"
+    ],
+    "bestAt": "High-accuracy email validation with catch-all scoring and deliverability toolkit",
+    "website": "https://www.zerobounce.net",
+    "pricing": {
+      "status": "public",
+      "amount": 99,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "ZeroBounce ONE",
+      "billing": "monthly",
+      "hasFreeTier": true,
+      "note": "ZeroBounce ONE is the minimum subscription at $99/month; pay-as-you-go credits start at $39 for 2,000 validations (one-time purchase)",
+      "sourceUrl": "https://www.zerobounce.net/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "neverbounce",
+    "name": "NeverBounce",
+    "aliases": [
+      "never bounce",
+      "neverbounce.com",
+      "zoominfo neverbounce"
+    ],
+    "category": "email-infra",
+    "jobs": [
+      "email-verification",
+      "data-hygiene"
+    ],
+    "bestAt": "Simple bulk and real-time email list cleaning, owned by ZoomInfo",
+    "website": "https://www.neverbounce.com",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not verified; vendor pricing page returned HTTP 403 to automated fetches",
+      "sourceUrl": "https://www.neverbounce.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "phantombuster",
+    "name": "PhantomBuster",
+    "aliases": [
+      "phantom buster",
+      "phantombuster.com",
+      "phantoms",
+      "phantom"
+    ],
+    "category": "automation",
+    "jobs": [
+      "linkedin-automation",
+      "contact-data",
+      "workflow-automation"
+    ],
+    "bestAt": "Prebuilt scrapers and automations for LinkedIn, Sales Navigator and social lead lists",
+    "website": "https://phantombuster.com",
+    "pricing": {
+      "status": "unverified",
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "plan": null,
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "pricing not verified; pricing page is JS-rendered and returned no prices",
+      "sourceUrl": "https://phantombuster.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "persana-ai",
+    "name": "Persana AI",
+    "aliases": [
+      "persana",
+      "persana.ai",
+      "persanaai"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "waterfall-enrichment",
+      "enrichment",
+      "signal-tracking",
+      "ai-sdr"
+    ],
+    "bestAt": "Clay-style enrichment tables with AI agents and signals at a lower entry price",
+    "website": "https://persana.ai",
+    "pricing": {
+      "status": "public",
+      "amount": 68,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Starter $68/mo billed annually (24k credits/yr) or $85 monthly (2,000 credits/mo); free plan with 50 credits",
+      "sourceUrl": "https://persana.ai/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "icypeas",
+    "name": "Icypeas",
+    "aliases": [
+      "icy peas",
+      "icypeas.com",
+      "icypea"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "email-finding",
+      "email-verification"
+    ],
+    "bestAt": "Very cheap bulk email finder and verifier with strong catch-all handling",
+    "website": "https://www.icypeas.com",
+    "pricing": {
+      "status": "public",
+      "amount": 19,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Basic",
+      "billing": null,
+      "hasFreeTier": false,
+      "note": "Basic $19 +VAT/month for 1,000 credits; page has a Monthly/Yearly (save 20%) toggle and it was not clear which term the $19 reflects",
+      "sourceUrl": "https://www.icypeas.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "anymail-finder",
+    "name": "Anymail Finder",
+    "aliases": [
+      "anymailfinder",
+      "anymail",
+      "any mail finder",
+      "kendo",
+      "kendo email finder",
+      "anymailfinder.com"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "email-finding",
+      "email-verification"
+    ],
+    "bestAt": "Pay-only-for-verified email finder by name, domain or LinkedIn URL, with bulk upload",
+    "website": "https://anymailfinder.com",
+    "pricing": {
+      "status": "public",
+      "amount": 19,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "4.8k credits/year",
+      "billing": "annual",
+      "hasFreeTier": false,
+      "note": "Lowest yearly plan $228/year for 4,800 credits (divided by 12 = $19/mo) or $29/month for 400 credits monthly; 7-day free trial with 100 credits",
+      "sourceUrl": "https://anymailfinder.com/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  },
+  {
+    "id": "adapt-io",
+    "name": "Adapt.io",
+    "aliases": [
+      "adapt",
+      "adapt io",
+      "adaptio",
+      "adapt.io"
+    ],
+    "category": "data-enrichment",
+    "jobs": [
+      "contact-data",
+      "email-finding",
+      "company-data"
+    ],
+    "bestAt": "Budget B2B contact database with a LinkedIn prospector extension, strong on tech firms",
+    "website": "https://www.adapt.io",
+    "pricing": {
+      "status": "public",
+      "amount": 40.83,
+      "currency": "USD",
+      "unit": "month",
+      "plan": "Starter",
+      "billing": "annual",
+      "hasFreeTier": true,
+      "note": "Starter annual price $490/year in the page's pricing data (divided by 12 = $40.83/mo) or $49/month monthly; 500 email credits",
+      "sourceUrl": "https://www.adapt.io/pricing",
+      "checkedOn": "2026-11-12"
+    }
+  }
+]
