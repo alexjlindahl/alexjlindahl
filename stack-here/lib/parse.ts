@@ -79,6 +79,9 @@ export function createMatcher(tools: Pick<Tool, "id" | "name" | "aliases">[]): M
     }
   }
   const lookup = (key: string) => exact.get(key) ?? derived.get(key);
+  // Tie-break for equally close typo matches: the tool listed earlier in the database wins
+  // ("salesforse" is Salesforce, not Salesforge).
+  const rank = new Map(tools.map((t, i) => [t.id, i]));
   const fuzzyKeys = [...exact.keys(), ...derived.keys()].filter((k) => k.length >= 4);
 
   function matchExact(norm: string): string | undefined {
@@ -99,7 +102,6 @@ export function createMatcher(tools: Pick<Tool, "id" | "name" | "aliases">[]): M
     if (max === 0) return undefined;
     let best: string | undefined;
     let bestDist = max + 1;
-    let tie = false;
     for (const k of fuzzyKeys) {
       if (k[0] !== key[0]) continue;
       // Short database keys only tolerate what their own length allows.
@@ -108,15 +110,12 @@ export function createMatcher(tools: Pick<Tool, "id" | "name" | "aliases">[]): M
       const d = editDistance(key, k, limit);
       if (d > limit) continue;
       const id = lookup(k)!;
-      if (d < bestDist) {
+      if (d < bestDist || (d === bestDist && best !== undefined && rank.get(id)! < rank.get(best)!)) {
         best = id;
         bestDist = d;
-        tie = false;
-      } else if (d === bestDist && id !== best) {
-        tie = true;
       }
     }
-    return tie ? undefined : best;
+    return best;
   }
 
   function match(name: string) {
