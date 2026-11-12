@@ -41,6 +41,14 @@ export function annualCost(tool: Tool, seats: number): { annual: number; basis: 
   return null;
 }
 
+/** Lowercase a label for mid-sentence use, keeping acronyms ("CRM", "AI SDR agent" -> "AI SDR agent"). */
+function inline(label: string): string {
+  return label
+    .split(" ")
+    .map((w) => (w.length > 1 && w === w.toUpperCase() ? w : w.toLowerCase()))
+    .join(" ");
+}
+
 function list(names: string[]): string {
   if (names.length <= 1) return names.join("");
   return names.slice(0, -1).join(", ") + " and " + names[names.length - 1];
@@ -97,8 +105,8 @@ export function analyze(input: AnalyzeInput, ctx: AnalyzeContext): AnalysisResul
         severity: "direct",
         tools: flagTools,
         advice: softened
-          ? `A waterfall tool is in the stack, so some multi-source coverage is deliberate. Still, keep one seat-based subscription for ${rule.label.toLowerCase()} and buy the rest as credits.`
-          : `${list(primaries.map((t) => t.name))} are all bought mainly for ${rule.label.toLowerCase()}. Keep the one the team logs into and cut or downgrade the rest.`,
+          ? `A waterfall tool is in the stack, so some multi-source coverage is deliberate. Still, keep one seat-based subscription for ${inline(rule.label)} and buy the rest as credits.`
+          : `${list(primaries.map((t) => t.name))} are all bought mainly for ${inline(rule.label)}. Keep the one the team logs into and cut or downgrade the rest.`,
       });
     } else if (primaries.length === 1) {
       // Skip partial flags that only restate a direct overlap between the same tools.
@@ -111,7 +119,7 @@ export function analyze(input: AnalyzeInput, ctx: AnalyzeContext): AnalysisResul
         jobLabel: rule.label,
         severity: "partial",
         tools: flagTools,
-        advice: `${list(others.map((t) => t.name))} also ${others.length > 1 ? "do" : "does"} ${rule.label.toLowerCase()} as a side feature. Check that ${main.name} is still earning its seat for it.`,
+        advice: `${list(others.map((t) => t.name))} also ${others.length > 1 ? "do" : "does"} ${inline(rule.label)} as a side feature. Check that ${main.name} is still earning its seat for it.`,
       });
     }
   }
@@ -208,7 +216,7 @@ export function analyze(input: AnalyzeInput, ctx: AnalyzeContext): AnalysisResul
     ? `${direct.length} direct overlap${direct.length > 1 ? "s" : ""}: ` +
       direct
         .slice(0, 2)
-        .map((o) => `${o.tools.filter((t) => t.primary).map((t) => name(t.id)).join(" + ")} on ${o.jobLabel.toLowerCase()}`)
+        .map((o) => `${o.tools.filter((t) => t.primary).map((t) => name(t.id)).join(" + ")} on ${inline(o.jobLabel)}`)
         .join("; ") +
       (direct.length > 2 ? `; and ${direct.length - 2} more.` : ".")
     : overlaps.length

@@ -67,7 +67,7 @@ export async function createSubmission(input: AnalyzeInput): Promise<{ id: strin
     "INSERT INTO submissions (id, tools, team_size, score, grade, result, created_at) VALUES (?, ?, ?, ?, ?, ?, ?)",
     [id, JSON.stringify([...result.tools].sort()), result.teamSize, result.score, result.grade, JSON.stringify(result), now],
   );
-  for (const raw of result.unknown) {
+  for (const raw of new Set(result.unknown)) {
     const name = safeUnknown(raw);
     if (!name) continue;
     await db.run(

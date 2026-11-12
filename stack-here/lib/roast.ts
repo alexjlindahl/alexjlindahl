@@ -67,12 +67,14 @@ export function roast(input: RoastInput): string {
       `${rec[0]} and ${rec[1]} both joined the meeting. Neither took the action items.`,
     ]);
   }
+  if (n === 1) return "One tool is not a stack. It is a subscription.";
   if (hasGap("crm")) {
     return pick([
       "No CRM. The pipeline lives in a spreadsheet called final_v3.",
       "No CRM. Bold choice. The forecast is a feeling.",
     ]);
   }
+  if (hasGap("outreach") && hasGap("data")) return "A CRM with nothing feeding it and nothing sending from it.";
   if (hasGap("outreach")) return "All that data and no way to send an email.";
   if (hasGap("data")) return "Sequences loaded, nobody to send them to.";
   if (wasteHigh >= 20000) return `About ${money(wasteHigh)} a year on tools doing each other's jobs.`;

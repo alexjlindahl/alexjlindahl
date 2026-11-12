@@ -10,7 +10,12 @@ Status legend: [ ] todo · [~] in progress · [x] done
 - [x] 5. Pages: home, /s/[id] result, "I cut a tool", /insights
 - [x] 6. Share card PNG (1200x630) + OG metadata
 - [x] 7. Refresh job (learning loop) + cron
-- [~] 8. Tests (parsing, grading), 10 sample stacks, browser check
-- [ ] 9. DONE.md, final commit + push
+- [x] 8. Tests (parsing, grading), 10 sample stacks, browser check
+- [x] 9. DONE.md, final commit + push
 
 Resume notes: see LOG.md (newest entries at bottom).
+
+## Next (not started)
+- Verify the 26 "unverified" prices by hand (list in DONE.md).
+- Rate limiting on /api/submit and /api/cut.
+- Review candidate overlap pairs from /insights once real data arrives.

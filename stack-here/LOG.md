@@ -3,3 +3,19 @@
 - App lives in `stack-here/` because the repo root is the GitHub profile README. On Vercel, set Root Directory to `stack-here`.
 - Tool pricing has three states: `public` (read on the vendor's site, with source URL), `not_public` (contact sales), `unverified` (page could not be read). Only `public` USD prices feed the wasted-spend estimate. No price is ever estimated.
 - The recorded price is the lowest paid plan on the vendor's page, so spend estimates lean low.
+- Research ran as six parallel batches (data/parts/*.json), merged and validated by `npm run build:tools` into data/tools.json: 250 tools, 151 public prices, 73 not public, 26 unverified.
+- Overlap rule: every tool lists its jobs, main job first. Two tools with the same main job are a direct overlap (scored and priced). A tool whose side feature duplicates another tool's main job is a partial overlap (flagged, small score penalty, never priced).
+- Wasted spend: in each direct overlap, keep the most expensive tool (or one without a public price) and count the rest. High end is that total; low end is half of it. Non-USD, usage-only ($0 entry) and unpriced tools are excluded and listed as "not counted".
+- Seats: per-tool seats, else team size, else 5 (stated on the page). Inline seat counts in the text box also work ("Gong x10").
+- Data overlaps are penalized at half weight when a waterfall/orchestration tool (e.g. Clay) is in the stack, because multi-source coverage is then partly deliberate.
+- Grade: 100 minus 15 per missing core job (CRM, data, outbound), 4 per missing recommended job for the team size, job-weighted overlap penalties, 2 per partial overlap (max 8), bloat (max 12), learned cut penalty (max 6). A 88+, B 75+, C 60+, D 45+, F below.
+- Results are stored as a snapshot, so a shared link keeps its grade when rules change later.
+- Privacy: a submission stores tool ids, team size, seats and the result. No IP, user agent or raw text. Unrecognized names are kept only as anonymous counts and dropped if they contain @, URLs, long digit runs or more than three words. Cut notes have emails, URLs and phone numbers stripped.
+- Learning loop: `lib/learn.ts` turns submissions and cut reports into learned rules (overlap weight multipliers 0.7 to 1.5, cut-rate penalties, score distribution for "beats X% of stacks"). Nothing is adjusted below minimum sample sizes (25 overlap cuts; 5 cuts and 20 appearances per tool). New overlap pairs are never auto-added: /insights marks replacement pairs that share no job as NEW for human review.
+- Learned rules live in the database, not in files, because Vercel's filesystem is read-only.
+- Schedule: Vercel Cron, Mondays 06:00 UTC, calls /api/cron/refresh with CRON_SECRET. `npm run refresh` does the same locally.
+- /insights: password form backed by ADMIN_PASSWORD and an httpOnly cookie. Open in dev when unset; off in production when unset.
+- Typo matching: Damerau-Levenshtein, 1 edit for 5 to 7 letters, 2 for 8+, none under 5, first letter must match. Ties go to the tool listed first in the database ("salesforse" is Salesforce, not Salesforge).
+- "HubSpot" maps to Sales Hub / CRM; Marketing Hub is a separate entry. "Salesforce" maps to Sales Cloud.
+- Fonts are bundled from @fontsource/inter (no network at build). The card uses the same files via next/og.
+- AGENTS.md is written by `next dev` in Next 16; committed as the file itself asks.
