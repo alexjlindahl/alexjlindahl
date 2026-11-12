@@ -59,7 +59,7 @@ Without `DATABASE_URL`, a Vercel deploy falls back to SQLite in `/tmp`. It will 
 
 ## Please review
 
-1. **The 72 rewritten statements** in `data/seed_takes.json`. They put short neutral words in front of real people's names. 43 of the source posts are long-form and X only returned the first ~280 characters (`"truncated": true`), so those rewrites are based on the opening of the post. Worth a read of each against its link before launch, especially these, where the rewrite took the most judgment:
+1. **The 72 rewritten statements** in `data/seed_takes.json`. They put short neutral words in front of real people's names. 49 of the source posts are long-form and X only returned the first ~280 characters (`"truncated": true`), so those rewrites are based on the opening of the post. Worth a read of each against its link before launch, especially these, where the rewrite took the most judgment:
    - @timsoulo: posed as a question about Clay's valuation versus Claude Code; restated as "It's fair to question Clay's $5B valuation now that Claude Code exists."
    - @aakashgupta: relays Benioff's "per-seat SaaS is dead" and adds his own point about the market.
    - @dzhng: "I've met zero enterprise sales leader who's gotten anything out of AI SDRs" became a general statement.
