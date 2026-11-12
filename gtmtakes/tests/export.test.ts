@@ -32,7 +32,7 @@ describe("weekly export", () => {
     const md = w.markdown;
     expect(md).toContain("## GTM Twitter");
     expect(md).toContain("Mar 2 to Mar 8, 2026");
-    expect(md).toContain('1. **"Statement for 2026-03-02"**');
+    expect(md).toContain('1. **“Statement for 2026-03-02”**');
     expect(md).toContain('50% Hot / 50% Not (110 votes, 9% said "it depends")');
     expect(md).toContain("[@author_20260302 on X](https://x.com/author_20260302/status/");
     expect(md).toContain("25% Hot / 75% Not (100 votes)");

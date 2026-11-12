@@ -1,26 +1,64 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  --color-paper: #fff4df;
+  --color-ink: #141210;
+  --color-hot: #e62e1f;
+  --color-hot-soft: #ffd9d3;
+  --color-not: #2450f0;
+  --color-not-soft: #d6e0ff;
+  --color-depends: #ffc83a;
+  --color-muted: #6b6257;
+  --font-display: "Archivo Black", "Arial Black", Impact, sans-serif;
+  --font-sans: "Space Grotesk Variable", ui-sans-serif, system-ui, sans-serif;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+  min-height: 100dvh;
+}
+
+/* Hard offset shadow + thick outline: the house style for anything card-like. */
+@utility pop {
+  border: 3px solid var(--color-ink);
+  box-shadow: 6px 6px 0 var(--color-ink);
+  border-radius: 1.25rem;
+}
+@utility pop-sm {
+  border: 3px solid var(--color-ink);
+  box-shadow: 3px 3px 0 var(--color-ink);
+  border-radius: 0.9rem;
+}
+@utility press {
+  transition: transform 0.08s ease, box-shadow 0.08s ease;
+  &:active {
+    transform: translate(3px, 3px);
+    box-shadow: 0 0 0 var(--color-ink);
+  }
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-ink);
+  outline-offset: 3px;
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(14px) scale(0.98); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes grow {
+  from { transform: scaleX(0); }
+  to { transform: scaleX(1); }
+}
+.animate-rise { animation: rise 0.28s cubic-bezier(0.2, 0.9, 0.3, 1.2) both; }
+.animate-grow { animation: grow 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) both; transform-origin: left; }
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-rise, .animate-grow { animation: none; }
 }

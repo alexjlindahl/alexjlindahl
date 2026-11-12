@@ -37,7 +37,7 @@ export function renderWeekly(args: {
     const s = split(t.counts);
     const depends = t.counts.depends > 0 ? `, ${s.dependsPct}% said "it depends"` : "";
     lines.push(
-      `${i + 1}. **"${t.statement}"**`,
+      `${i + 1}. **“${t.statement}”**`,
       `   ${s.hotPct}% Hot / ${s.notPct}% Not (${s.total.toLocaleString("en-US")} votes${depends})`,
       `   Source: [@${t.author_handle} on X](${t.source_url})`,
       "",

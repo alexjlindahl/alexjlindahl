@@ -6,7 +6,13 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "fetch-takes": "tsx scripts/fetch_takes.ts",
+    "seed": "tsx scripts/seed.ts",
+    "seed:clear-votes": "tsx scripts/seed.ts --clear-votes",
+    "export:weekly": "tsx scripts/export_weekly.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^1.8.0",
