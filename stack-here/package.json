@@ -10,7 +10,8 @@
     "typecheck": "tsc --noEmit",
     "build:tools": "node scripts/build-tools.mjs",
     "seed": "tsx scripts/seed.ts",
-    "refresh": "tsx scripts/refresh.ts"
+    "refresh": "tsx scripts/refresh.ts",
+    "build:artifact": "node scripts/build-artifact.mjs"
   },
   "dependencies": {
     "@fontsource/inter": "^5.3.0",

@@ -19,3 +19,9 @@
 - "HubSpot" maps to Sales Hub / CRM; Marketing Hub is a separate entry. "Salesforce" maps to Sales Cloud.
 - Fonts are bundled from @fontsource/inter (no network at build). The card uses the same files via next/og.
 - AGENTS.md is written by `next dev` in Next 16; committed as the file itself asks.
+
+## Single-page (artifact) build
+- `npm run build:artifact` bundles `lib/` and `data/tools.json` with `artifact/app.js` into one HTML file (`artifact/dist/stack-here.html`). Same parser and grader as the Next.js app, run in the browser.
+- No server, so: a result's link is the stack itself encoded in the URL hash (tool index + seats + team size); the share card is drawn on a canvas; submissions and cut reports go to the page's shared store; learned rules are recomputed from that store on every page load instead of by cron.
+- Sample stacks are not stored, so they do not skew insights. Insights has no password: anyone who can open the page can read it.
+- Result links depend on tool order in `data/tools.json`; append new tools rather than reordering.
